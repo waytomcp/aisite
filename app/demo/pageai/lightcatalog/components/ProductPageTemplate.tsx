@@ -5,6 +5,7 @@ import { useEffect } from 'react';
 
 import { useThemeStore } from '@/components/bricks/state/theme-state';
 import { useThemeSwitch } from '@/components/shared/useThemeSwitch';
+import ThemeSwitch from '@/components/shared/ThemeSwitch';
 
 import { OrbitIcon } from 'lucide-react'; // Using OrbitIcon as placeholder for Logo
 

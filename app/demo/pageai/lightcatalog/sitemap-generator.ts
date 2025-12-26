@@ -1,26 +1,13 @@
-import { Metadata } from 'next';
+import { MetadataRoute } from 'next';
 import { products } from './data/products';
 
-export default function sitemap(): Metadata {
-  const baseUrl = 'https://pageui.shipixen.com'; // Adjust with actual domain
-
-  return {
-    alternates: {
-      canonical: `${baseUrl}/demo/pageai/lightcatalog`,
-    },
-    openGraph: {
-      url: `${baseUrl}/demo/pageai/lightcatalog`,
-    },
-  };
-}
-
-export async function generateSitemap() {
+export async function generateSitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = 'https://pageui.shipixen.com'; // Adjust with actual domain
 
   const productUrls = products.map((product) => ({
     url: `${baseUrl}/demo/pageai/lightcatalog/${product.slug}`,
     lastModified: new Date(),
-    changeFrequency: 'weekly',
+    changeFrequency: 'weekly' as const,
     priority: 0.8,
   }));
 
@@ -28,9 +15,11 @@ export async function generateSitemap() {
     {
       url: `${baseUrl}/demo/pageai/lightcatalog`,
       lastModified: new Date(),
-      changeFrequency: 'daily',
+      changeFrequency: 'daily' as const,
       priority: 1,
     },
     ...productUrls,
   ];
 }
+
+export default generateSitemap;

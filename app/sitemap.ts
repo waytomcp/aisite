@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 import { allBlogs } from 'shipixen-contentlayer/generated';
 import { siteConfig } from '@/data/config/site.settings';
-import { generateSitemap as generateLightCatalogSitemap } from './demo/pageai/lightcatalog/sitemap';
+import { generateSitemap as generateLightCatalogSitemap } from './demo/pageai/lightcatalog/sitemap-generator';
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const siteUrl = siteConfig.siteUrl;

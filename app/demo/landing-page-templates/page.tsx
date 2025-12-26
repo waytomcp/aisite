@@ -34,7 +34,7 @@ export const metadata: Metadata = {
   },
 };
 
-export const TemplateCardItem = ({
+const TemplateCardItem = ({
   name,
   description,
   imageUrls,
@@ -103,7 +103,7 @@ export const TemplateCardItem = ({
   );
 };
 
-export const TemplateListItem = ({
+const TemplateListItem = ({
   name,
   description,
   imageUrls,

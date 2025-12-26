@@ -3,6 +3,9 @@
   "description": "Page UI is a set of landing page components & templates that you can copy & paste into you codebase. Made for React & built on top of Shadcn UI.",
   "version": "1.6.2",
   "private": true,
+  "engines": {
+    "node": ">=18.0.0 <22.0.0"
+  },
   "scripts": {
     "dev": "cross-env PORT=6010 next dev",
     "build": "cross-env next build && cross-env NODE_OPTIONS='--experimental-json-modules' node ./scripts/postbuild.mjs",
