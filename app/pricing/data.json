@@ -1,0 +1,1204 @@
+{
+    "success": true,
+    "data": {
+        "id": "36753e21-3066-4c7b-a6f8-6e3eede9cb62",
+        "taskId": "689fa678-e31b-4583-a2bf-90ecc638d656",
+        "userId": "bc76c47d-52fc-48a0-a36e-a93580a3b7bb",
+        "version": 1,
+        "createdAt": "2025-12-15T08:42:40.995491+00:00",
+        "jsonData": [
+            {
+                "id": "landing-header",
+                "componentType": "LandingHeader",
+                "props": {
+                    "withBackground": true,
+                    "variant": "primary",
+                    "logoComponent": {
+                        "componentType": "div",
+                        "props": {
+                            "className": "flex items-center text-primary-900 dark:text-primary-100 gap-3"
+                        },
+                        "id": "div",
+                        "children": [
+                            {
+                                "componentType": "Image",
+                                "props": {
+                                    "src": "https://hniurelftekdyiheqlqu.supabase.co/storage/v1/object/public/images/1765788149870-logo.png",
+                                    "alt": "YZM Milling Solutions logo",
+                                    "width": 200,
+                                    "height": 200,
+                                    "className": "h-8 w-8 rounded-full"
+                                },
+                                "id": "Image"
+                            },
+                            "YZM Milling Solutions "
+                        ]
+                    }
+                },
+                "children": [
+                    {
+                        "id": "landing-header-menu-item-in-landing-header",
+                        "componentType": "LandingHeaderMenuItem",
+                        "props": {
+                            "href": "#products",
+                            "children": "Products"
+                        },
+                        "children": [
+                            "Products"
+                        ]
+                    },
+                    {
+                        "id": "landing-header-menu-item-in-landing-header-1",
+                        "componentType": "LandingHeaderMenuItem",
+                        "props": {
+                            "href": "#services",
+                            "children": "Services"
+                        },
+                        "children": [
+                            "Services"
+                        ]
+                    },
+                    {
+                        "id": "landing-header-menu-item-in-landing-header-2",
+                        "componentType": "LandingHeaderMenuItem",
+                        "props": {
+                            "href": "#about",
+                            "children": "About Us"
+                        },
+                        "children": [
+                            "About Us"
+                        ]
+                    },
+                    {
+                        "id": "landing-header-menu-item-in-landing-header-3",
+                        "componentType": "LandingHeaderMenuItem",
+                        "props": {
+                            "type": "button",
+                            "children": "Contact Us"
+                        },
+                        "children": [
+                            "Contact Us"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "landing-primary-image-cta-section",
+                "componentType": "LandingPrimaryImageCtaSection",
+                "props": {
+                    "titleComponent": {
+                        "componentType": "h1",
+                        "props": {
+                            "className": "font-normal text-2xl md:text-3xl lg:text-4xl leading-tight md:max-w-2xl"
+                        },
+                        "id": "h1",
+                        "children": [
+                            {
+                                "componentType": "span",
+                                "props": {
+                                    "className": "font-medium inline-block md:leading-12 px-2 md:px-4 py-1 md:py-2 bg-primary-500/20"
+                                },
+                                "id": "span",
+                                "textContent": "Breakthrough Quality "
+                            },
+                            ", Trusted Grain & Rice Machinery "
+                        ]
+                    },
+                    "description": "ISO-certified, high-efficiency solutions for milling & processing. Delivering reliable performance for over 1,000 companies worldwide.",
+                    "imageSrc": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=500&q=80",
+                    "imageAlt": "Industrial milling machinery",
+                    "imagePosition": "right",
+                    "imageShadow": "hard",
+                    "textPosition": "left",
+                    "variant": "primary",
+                    "withBackground": false
+                },
+                "children": [
+                    {
+                        "id": "Button-in-landing-primary-image-cta-section",
+                        "componentType": "Button",
+                        "props": {
+                            "size": "xl",
+                            "asChild": true
+                        },
+                        "children": [
+                            {
+                                "id": "Link-in-Button",
+                                "componentType": "Link",
+                                "props": {
+                                    "href": "#contact",
+                                    "children": "Get a Free Quote"
+                                },
+                                "children": [
+                                    "Get a Free Quote"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Button-in-landing-primary-image-cta-section-1",
+                        "componentType": "Button",
+                        "props": {
+                            "size": "xl",
+                            "variant": "outlinePrimary",
+                            "asChild": true
+                        },
+                        "children": [
+                            {
+                                "id": "Link-in-Button-1",
+                                "componentType": "Link",
+                                "props": {
+                                    "href": "#products",
+                                    "children": "View Products"
+                                },
+                                "children": [
+                                    "View Products"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "landing-showcase",
+                "componentType": "LandingShowcase",
+                "props": {
+                    "title": "Trusted by Industry Leaders",
+                    "description": "Over 1,000+ companies worldwide rely on our machinery",
+                    "textPosition": "left",
+                    "withBackground": true,
+                    "variant": "primary"
+                },
+                "children": [
+                    {
+                        "id": "landing-showcase-item-in-landing-showcase",
+                        "componentType": "LandingShowcaseItem",
+                        "props": {},
+                        "children": [
+                            {
+                                "id": "Factory",
+                                "componentType": "Factory",
+                                "props": {
+                                    "className": "w-8 h-8"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "landing-showcase-item-in-landing-showcase-1",
+                        "componentType": "LandingShowcaseItem",
+                        "props": {},
+                        "children": [
+                            {
+                                "id": "Wheat",
+                                "componentType": "Wheat",
+                                "props": {
+                                    "className": "w-8 h-8"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "landing-showcase-item-in-landing-showcase-2",
+                        "componentType": "LandingShowcaseItem",
+                        "props": {},
+                        "children": [
+                            {
+                                "id": "Settings",
+                                "componentType": "Settings",
+                                "props": {
+                                    "className": "w-8 h-8"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "landing-showcase-item-in-landing-showcase-3",
+                        "componentType": "LandingShowcaseItem",
+                        "props": {},
+                        "children": [
+                            {
+                                "id": "Cpu",
+                                "componentType": "Cpu",
+                                "props": {
+                                    "className": "w-8 h-8"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "landing-showcase-item-in-landing-showcase-4",
+                        "componentType": "LandingShowcaseItem",
+                        "props": {},
+                        "children": [
+                            {
+                                "id": "Star",
+                                "componentType": "Star",
+                                "props": {
+                                    "className": "w-8 h-8"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "landing-showcase-item-in-landing-showcase-5",
+                        "componentType": "LandingShowcaseItem",
+                        "props": {},
+                        "children": [
+                            {
+                                "id": "Circle",
+                                "componentType": "Circle",
+                                "props": {
+                                    "className": "w-8 h-8"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "landing-feature-list",
+                "componentType": "LandingFeatureList",
+                "props": {
+                    "title": "Why Choose YZM?",
+                    "description": "Industry-leading solutions backed by certification and expertise",
+                    "featureItems": [
+                        {
+                            "title": "Certified Quality",
+                            "description": "Adhering to strict international standards for reliable performance and durability.",
+                            "icon": {
+                                "componentType": "Star",
+                                "props": {
+                                    "className": "w-6 h-6"
+                                },
+                                "id": "Star"
+                            }
+                        },
+                        {
+                            "title": "Custom Solutions",
+                            "description": "Tailored machinery designed to meet your specific milling and processing needs.",
+                            "icon": {
+                                "componentType": "Settings",
+                                "props": {
+                                    "className": "w-6 h-6"
+                                },
+                                "id": "Settings"
+                            }
+                        },
+                        {
+                            "title": "Advanced Technology",
+                            "description": "Utilizing cutting-edge technology for optimal efficiency and maximum output.",
+                            "icon": {
+                                "componentType": "Cpu",
+                                "props": {
+                                    "className": "w-6 h-6"
+                                },
+                                "id": "Cpu"
+                            }
+                        },
+                        {
+                            "title": "Expert Team",
+                            "description": "Experienced professionals providing top-notch support and technical assistance.",
+                            "icon": {
+                                "componentType": "Users",
+                                "props": {
+                                    "className": "w-6 h-6"
+                                },
+                                "id": "Users"
+                            }
+                        },
+                        {
+                            "title": "Global Reach",
+                            "description": "Serving customers worldwide with reliable shipping and installation services.",
+                            "icon": {
+                                "componentType": "Circle",
+                                "props": {
+                                    "className": "w-6 h-6"
+                                },
+                                "id": "Circle"
+                            }
+                        },
+                        {
+                            "title": "Proven Track Record",
+                            "description": "Decades of experience delivering high-performance milling solutions.",
+                            "icon": {
+                                "componentType": "Factory",
+                                "props": {
+                                    "className": "w-6 h-6"
+                                },
+                                "id": "Factory"
+                            }
+                        }
+                    ],
+                    "withBackground": false,
+                    "withBackgroundGlow": false,
+                    "variant": "primary",
+                    "backgroundGlowVariant": "primary"
+                }
+            },
+            {
+                "id": "landing-product-card-section",
+                "componentType": "LandingProductCardSection",
+                "props": {
+                    "title": "Product Categories",
+                    "description": "Comprehensive range of equipment for every stage of grain processing",
+                    "withBackground": true,
+                    "withBackgroundGlow": false,
+                    "variant": "primary",
+                    "backgroundGlowVariant": "primary",
+                    "textPosition": "center"
+                },
+                "children": [
+                    {
+                        "id": "landing-product-card-in-landing-product-card-section",
+                        "componentType": "LandingProductCard",
+                        "props": {
+                            "title": "Cleaning Equipment",
+                            "description": "Efficiently removes impurities for a cleaner milling process",
+                            "imageSrc": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=500&q=80",
+                            "imageAlt": "Cleaning equipment",
+                            "variant": "primary"
+                        }
+                    },
+                    {
+                        "id": "landing-product-card-in-landing-product-card-section-1",
+                        "componentType": "LandingProductCard",
+                        "props": {
+                            "title": "Milling & Polishing",
+                            "description": "Precisely mills and polishes grains to perfection",
+                            "imageSrc": "https://hniurelftekdyiheqlqu.supabase.co/storage/v1/object/public/images/1765788147246-image_0.png",
+                            "imageAlt": "Milling equipment",
+                            "variant": "primary"
+                        }
+                    },
+                    {
+                        "id": "landing-product-card-in-landing-product-card-section-2",
+                        "componentType": "LandingProductCard",
+                        "props": {
+                            "title": "Grading Systems",
+                            "description": "Sorts grains by size and quality for uniformity",
+                            "imageSrc": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=500&q=80",
+                            "imageAlt": "Grading systems",
+                            "variant": "primary"
+                        }
+                    },
+                    {
+                        "id": "landing-product-card-in-landing-product-card-section-3",
+                        "componentType": "LandingProductCard",
+                        "props": {
+                            "title": "Stone Removal",
+                            "description": "Effectively removes stones and other foreign objects",
+                            "imageSrc": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=500&q=80",
+                            "imageAlt": "Stone removal equipment",
+                            "variant": "primary"
+                        }
+                    },
+                    {
+                        "id": "landing-product-card-in-landing-product-card-section-4",
+                        "componentType": "LandingProductCard",
+                        "props": {
+                            "title": "Conveying Systems",
+                            "description": "Seamlessly transports grains throughout the milling process",
+                            "imageSrc": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=500&q=80",
+                            "imageAlt": "Conveying systems",
+                            "variant": "primary"
+                        }
+                    },
+                    {
+                        "id": "landing-product-card-in-landing-product-card-section-5",
+                        "componentType": "LandingProductCard",
+                        "props": {
+                            "title": "Packaging Solutions",
+                            "description": "Automated packaging for efficient final product handling",
+                            "imageSrc": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=500&q=80",
+                            "imageAlt": "Packaging equipment",
+                            "variant": "primary"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "landing-product-card-section-1",
+                "componentType": "LandingProductCardSection",
+                "props": {
+                    "title": "Flagship Products",
+                    "description": "Our most advanced and reliable machinery solutions",
+                    "withBackground": false,
+                    "withBackgroundGlow": true,
+                    "variant": "primary",
+                    "backgroundGlowVariant": "primary",
+                    "textPosition": "center"
+                },
+                "children": [
+                    {
+                        "id": "landing-product-card-in-landing-product-card-section-6",
+                        "componentType": "LandingProductCard",
+                        "props": {
+                            "title": "Model XYZ-1000",
+                            "description": "High-performance milling for increased output and efficiency",
+                            "imageSrc": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=500&q=80",
+                            "imageAlt": "Model XYZ-1000",
+                            "variant": "primary"
+                        }
+                    },
+                    {
+                        "id": "landing-product-card-in-landing-product-card-section-7",
+                        "componentType": "LandingProductCard",
+                        "props": {
+                            "title": "Model ABC-2000",
+                            "description": "Advanced polishing system with precision control",
+                            "imageSrc": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=500&q=80",
+                            "imageAlt": "Model ABC-2000",
+                            "variant": "primary"
+                        }
+                    },
+                    {
+                        "id": "landing-product-card-in-landing-product-card-section-8",
+                        "componentType": "LandingProductCard",
+                        "props": {
+                            "title": "Model DEF-3000",
+                            "description": "Industrial-grade cleaning equipment for large operations",
+                            "imageSrc": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=500&q=80",
+                            "imageAlt": "Model DEF-3000",
+                            "variant": "primary"
+                        }
+                    },
+                    {
+                        "id": "landing-product-card-in-landing-product-card-section-9",
+                        "componentType": "LandingProductCard",
+                        "props": {
+                            "title": "Model GHI-4000",
+                            "description": "Automated grading system with smart sorting technology",
+                            "imageSrc": "https://hniurelftekdyiheqlqu.supabase.co/storage/v1/object/public/images/1765788147246-image_0.png",
+                            "imageAlt": "Model GHI-4000",
+                            "variant": "primary"
+                        }
+                    },
+                    {
+                        "id": "landing-product-card-in-landing-product-card-section-10",
+                        "componentType": "LandingProductCard",
+                        "props": {
+                            "title": "Model JKL-5000",
+                            "description": "Heavy-duty stone removal with magnetic separation",
+                            "imageSrc": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=500&q=80",
+                            "imageAlt": "Model JKL-5000",
+                            "variant": "primary"
+                        }
+                    },
+                    {
+                        "id": "landing-product-card-in-landing-product-card-section-11",
+                        "componentType": "LandingProductCard",
+                        "props": {
+                            "title": "Model MNO-6000",
+                            "description": "Complete conveying solution for seamless operations",
+                            "imageSrc": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=500&q=80",
+                            "imageAlt": "Model MNO-6000",
+                            "variant": "primary"
+                        }
+                    },
+                    {
+                        "id": "landing-product-card-in-landing-product-card-section-12",
+                        "componentType": "LandingProductCard",
+                        "props": {
+                            "title": "Model PQR-7000",
+                            "description": "Integrated milling system with automated controls",
+                            "imageSrc": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=500&q=80",
+                            "imageAlt": "Model PQR-7000",
+                            "variant": "primary"
+                        }
+                    },
+                    {
+                        "id": "landing-product-card-in-landing-product-card-section-13",
+                        "componentType": "LandingProductCard",
+                        "props": {
+                            "title": "Model STU-8000",
+                            "description": "Energy-efficient polishing with reduced power consumption",
+                            "imageSrc": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=500&q=80",
+                            "imageAlt": "Model STU-8000",
+                            "variant": "primary"
+                        }
+                    },
+                    {
+                        "id": "landing-product-card-in-landing-product-card-section-14",
+                        "componentType": "LandingProductCard",
+                        "props": {
+                            "title": "Model VWX-9000",
+                            "description": "Multi-stage cleaning system for superior grain quality",
+                            "imageSrc": "https://hniurelftekdyiheqlqu.supabase.co/storage/v1/object/public/images/1765788147246-image_0.png",
+                            "imageAlt": "Model VWX-9000",
+                            "variant": "primary"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "landing-product-feature",
+                "componentType": "LandingProductFeature",
+                "props": {
+                    "title": "ISO9001:2000 Certified Quality",
+                    "description": "Every machine meets strict quality control standards. Our ISO9001:2000 certification ensures the highest quality and reliability in every product we manufacture. From design to delivery, we maintain rigorous testing protocols and quality assurance processes.",
+                    "imageSrc": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=500&q=80",
+                    "imageAlt": "Quality control process",
+                    "imagePosition": "right",
+                    "imagePerspective": "none",
+                    "imageShadow": "hard",
+                    "textPosition": "left",
+                    "withBackground": true,
+                    "withBackgroundGlow": false,
+                    "variant": "primary",
+                    "backgroundGlowVariant": "primary"
+                }
+            },
+            {
+                "id": "landing-testimonial-grid",
+                "componentType": "LandingTestimonialGrid",
+                "props": {
+                    "title": "What Our Clients Say",
+                    "description": "Trusted by leading companies in the grain processing industry",
+                    "testimonialItems": [
+                        {
+                            "url": "#",
+                            "text": "YZM's machinery has significantly improved our processing efficiency. The quality and reliability are unmatched in the industry. We've seen a 40% increase in output since installation.",
+                            "imageSrc": "/static/images/people/1.webp",
+                            "name": "John Anderson",
+                            "handle": "@johnanderson",
+                            "verified": true
+                        },
+                        {
+                            "url": "#",
+                            "text": "Outstanding customer service and technical support. The team was with us every step of the way, from installation to training. Highly recommend their solutions for any milling operation.",
+                            "imageSrc": "/static/images/people/2.webp",
+                            "name": "Sarah Chen",
+                            "handle": "@sarahchen",
+                            "verified": true
+                        },
+                        {
+                            "url": "#",
+                            "text": "The ISO certification gives us confidence in the quality. We've been using YZM equipment for over five years and have never experienced major downtime. Excellent investment.",
+                            "imageSrc": "/static/images/people/3.webp",
+                            "name": "Michael Rodriguez",
+                            "handle": "@mrodriguez",
+                            "verified": true
+                        },
+                        {
+                            "url": "#",
+                            "text": "Best milling equipment we've ever purchased. The advanced technology and automation features have reduced our labor costs while improving product quality significantly.",
+                            "imageSrc": "/static/images/people/4.webp",
+                            "name": "Emily Thompson",
+                            "handle": "@emilyt",
+                            "verified": true
+                        },
+                        {
+                            "url": "#",
+                            "text": "YZM's custom solutions perfectly matched our specific needs. They took time to understand our operation and delivered exactly what we required. Professional service from start to finish.",
+                            "imageSrc": "/static/images/people/5.webp",
+                            "name": "David Kim",
+                            "handle": "@davidkim",
+                            "verified": true
+                        },
+                        {
+                            "url": "#",
+                            "text": "Reliable, efficient, and built to last. We've processed millions of tons through their equipment with minimal maintenance. The return on investment has exceeded our expectations.",
+                            "imageSrc": "/static/images/people/6.webp",
+                            "name": "Lisa Martinez",
+                            "handle": "@lisamartinez",
+                            "verified": true
+                        },
+                        {
+                            "url": "#",
+                            "text": "The technical expertise of the YZM team is impressive. They provided comprehensive training and ongoing support that has been invaluable to our operations.",
+                            "imageSrc": "/static/images/people/7.webp",
+                            "name": "Robert Johnson",
+                            "handle": "@robertj",
+                            "verified": true
+                        },
+                        {
+                            "url": "#",
+                            "text": "We upgraded our entire facility with YZM equipment and couldn't be happier. The efficiency gains and product quality improvements have transformed our business.",
+                            "imageSrc": "/static/images/people/8.webp",
+                            "name": "Jennifer Lee",
+                            "handle": "@jenniferlee",
+                            "verified": true
+                        },
+                        {
+                            "url": "#",
+                            "text": "Outstanding build quality and performance. After comparing multiple suppliers, YZM stood out for their attention to detail and commitment to customer satisfaction.",
+                            "imageSrc": "/static/images/people/9.webp",
+                            "name": "Thomas Brown",
+                            "handle": "@thomasbrown",
+                            "verified": true
+                        }
+                    ],
+                    "withBackground": false,
+                    "withBackgroundGlow": true,
+                    "variant": "primary",
+                    "backgroundGlowVariant": "primary"
+                }
+            },
+            {
+                "id": "landing-sale-cta-section",
+                "componentType": "LandingSaleCtaSection",
+                "props": {
+                    "title": "Ready to Transform Your Milling Operation?",
+                    "description": "Contact us today for a free consultation and quote. Our experts are ready to help you find the perfect solution.",
+                    "withBackground": true,
+                    "withBackgroundGlow": false,
+                    "variant": "primary",
+                    "backgroundGlowVariant": "primary",
+                    "footerComponent": {
+                        "componentType": "div",
+                        "props": {
+                            "className": "w-full mt-12 grid grid-cols-1 md:grid-cols-2 gap-8"
+                        },
+                        "id": "div",
+                        "children": [
+                            {
+                                "componentType": "div",
+                                "props": {},
+                                "id": "div",
+                                "children": [
+                                    {
+                                        "componentType": "form",
+                                        "props": {
+                                            "className": "space-y-4"
+                                        },
+                                        "id": "form",
+                                        "children": [
+                                            {
+                                                "componentType": "div",
+                                                "props": {},
+                                                "id": "div",
+                                                "children": [
+                                                    {
+                                                        "componentType": "label",
+                                                        "props": {
+                                                            "htmlFor": "name",
+                                                            "className": "block text-sm font-medium mb-2"
+                                                        },
+                                                        "id": "label",
+                                                        "textContent": "Name "
+                                                    },
+                                                    {
+                                                        "componentType": "input",
+                                                        "props": {
+                                                            "type": "text",
+                                                            "id": "name",
+                                                            "className": "w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-primary-500"
+                                                        },
+                                                        "id": "input"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "componentType": "div",
+                                                "props": {},
+                                                "id": "div",
+                                                "children": [
+                                                    {
+                                                        "componentType": "label",
+                                                        "props": {
+                                                            "htmlFor": "company",
+                                                            "className": "block text-sm font-medium mb-2"
+                                                        },
+                                                        "id": "label",
+                                                        "textContent": "Company "
+                                                    },
+                                                    {
+                                                        "componentType": "input",
+                                                        "props": {
+                                                            "type": "text",
+                                                            "id": "company",
+                                                            "className": "w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-primary-500"
+                                                        },
+                                                        "id": "input"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "componentType": "div",
+                                                "props": {},
+                                                "id": "div",
+                                                "children": [
+                                                    {
+                                                        "componentType": "label",
+                                                        "props": {
+                                                            "htmlFor": "email",
+                                                            "className": "block text-sm font-medium mb-2"
+                                                        },
+                                                        "id": "label",
+                                                        "textContent": "Email "
+                                                    },
+                                                    {
+                                                        "componentType": "input",
+                                                        "props": {
+                                                            "type": "email",
+                                                            "id": "email",
+                                                            "className": "w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-primary-500"
+                                                        },
+                                                        "id": "input"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "componentType": "div",
+                                                "props": {},
+                                                "id": "div",
+                                                "children": [
+                                                    {
+                                                        "componentType": "label",
+                                                        "props": {
+                                                            "htmlFor": "phone",
+                                                            "className": "block text-sm font-medium mb-2"
+                                                        },
+                                                        "id": "label",
+                                                        "textContent": "Phone "
+                                                    },
+                                                    {
+                                                        "componentType": "input",
+                                                        "props": {
+                                                            "type": "tel",
+                                                            "id": "phone",
+                                                            "className": "w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-primary-500"
+                                                        },
+                                                        "id": "input"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "componentType": "div",
+                                                "props": {},
+                                                "id": "div",
+                                                "children": [
+                                                    {
+                                                        "componentType": "label",
+                                                        "props": {
+                                                            "htmlFor": "message",
+                                                            "className": "block text-sm font-medium mb-2"
+                                                        },
+                                                        "id": "label",
+                                                        "textContent": "Message "
+                                                    },
+                                                    {
+                                                        "componentType": "textarea",
+                                                        "props": {
+                                                            "id": "message",
+                                                            "rows": 4,
+                                                            "className": "w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-primary-500"
+                                                        },
+                                                        "id": "textarea"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "componentType": "Button",
+                                                "props": {
+                                                    "type": "submit",
+                                                    "size": "lg",
+                                                    "className": "w-full"
+                                                },
+                                                "id": "Button",
+                                                "children": "Submit Inquiry"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "componentType": "div",
+                                "props": {
+                                    "className": "space-y-4"
+                                },
+                                "id": "div",
+                                "children": [
+                                    {
+                                        "componentType": "h3",
+                                        "props": {
+                                            "className": "text-xl font-semibold"
+                                        },
+                                        "id": "h3",
+                                        "textContent": "Contact Information "
+                                    },
+                                    {
+                                        "componentType": "div",
+                                        "props": {
+                                            "className": "space-y-2"
+                                        },
+                                        "id": "div",
+                                        "children": [
+                                            {
+                                                "componentType": "p",
+                                                "props": {},
+                                                "id": "p",
+                                                "children": [
+                                                    {
+                                                        "componentType": "strong",
+                                                        "props": {},
+                                                        "id": "strong",
+                                                        "textContent": "Phone: "
+                                                    },
+                                                    "+1 555-123-4567 "
+                                                ]
+                                            },
+                                            {
+                                                "componentType": "p",
+                                                "props": {},
+                                                "id": "p",
+                                                "children": [
+                                                    {
+                                                        "componentType": "strong",
+                                                        "props": {},
+                                                        "id": "strong",
+                                                        "textContent": "WeChat: "
+                                                    },
+                                                    "YZMMillingSolutions "
+                                                ]
+                                            },
+                                            {
+                                                "componentType": "p",
+                                                "props": {},
+                                                "id": "p",
+                                                "children": [
+                                                    {
+                                                        "componentType": "strong",
+                                                        "props": {},
+                                                        "id": "strong",
+                                                        "textContent": "Email: "
+                                                    },
+                                                    "info@yzmmilling.com "
+                                                ]
+                                            },
+                                            {
+                                                "componentType": "p",
+                                                "props": {},
+                                                "id": "p",
+                                                "children": [
+                                                    {
+                                                        "componentType": "strong",
+                                                        "props": {},
+                                                        "id": "strong",
+                                                        "textContent": "Address: "
+                                                    },
+                                                    "123 Industrial Park, Manufacturing District "
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "children": [
+                    {
+                        "id": "Button-in-landing-sale-cta-section",
+                        "componentType": "Button",
+                        "props": {
+                            "size": "xl",
+                            "asChild": true
+                        },
+                        "children": [
+                            {
+                                "id": "Link-in-Button-2",
+                                "componentType": "Link",
+                                "props": {
+                                    "href": "#contact",
+                                    "children": "Get Free Quote"
+                                },
+                                "children": [
+                                    "Get Free Quote"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Button-in-landing-sale-cta-section-1",
+                        "componentType": "Button",
+                        "props": {
+                            "size": "xl",
+                            "variant": "outlinePrimary",
+                            "asChild": true
+                        },
+                        "children": [
+                            {
+                                "id": "Link-in-Button-3",
+                                "componentType": "Link",
+                                "props": {
+                                    "href": "#products",
+                                    "children": "Browse Products"
+                                },
+                                "children": [
+                                    "Browse Products"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "landing-footer",
+                "componentType": "LandingFooter",
+                "props": {
+                    "title": "YZM Milling Solutions",
+                    "description": "Leading provider of grain and rice processing machinery",
+                    "withBackground": false,
+                    "withBackgroundGlow": false,
+                    "variant": "primary",
+                    "backgroundGlowVariant": "primary",
+                    "withBackgroundGradient": false,
+                    "footnote": {
+                        "componentType": "div",
+                        "props": {
+                            "className": "text-center p-6"
+                        },
+                        "id": "div",
+                        "children": [
+                            {
+                                "componentType": "p",
+                                "props": {},
+                                "id": "p",
+                                "textContent": "© 2024 YZM Milling Solutions. All rights reserved. "
+                            }
+                        ]
+                    },
+                    "logoComponent": {
+                        "componentType": "div",
+                        "props": {
+                            "className": "flex items-center text-primary-900 dark:text-primary-100 gap-3"
+                        },
+                        "id": "div",
+                        "children": [
+                            {
+                                "componentType": "Image",
+                                "props": {
+                                    "src": "https://hniurelftekdyiheqlqu.supabase.co/storage/v1/object/public/images/1765788149870-logo.png",
+                                    "alt": "YZM Milling Solutions logo",
+                                    "width": 200,
+                                    "height": 200,
+                                    "className": "h-8 w-8 rounded-full"
+                                },
+                                "id": "Image"
+                            },
+                            "YZM Milling Solutions "
+                        ]
+                    }
+                },
+                "children": [
+                    {
+                        "id": "landing-footer-column-in-landing-footer",
+                        "componentType": "LandingFooterColumn",
+                        "props": {
+                            "title": "Products"
+                        },
+                        "children": [
+                            {
+                                "id": "landing-footer-link-in-landing-footer-column",
+                                "componentType": "LandingFooterLink",
+                                "props": {
+                                    "href": "#cleaning",
+                                    "children": "Cleaning Equipment"
+                                },
+                                "children": [
+                                    "Cleaning Equipment"
+                                ]
+                            },
+                            {
+                                "id": "landing-footer-link-in-landing-footer-column-1",
+                                "componentType": "LandingFooterLink",
+                                "props": {
+                                    "href": "#milling",
+                                    "children": "Milling & Polishing"
+                                },
+                                "children": [
+                                    "Milling & Polishing"
+                                ]
+                            },
+                            {
+                                "id": "landing-footer-link-in-landing-footer-column-2",
+                                "componentType": "LandingFooterLink",
+                                "props": {
+                                    "href": "#grading",
+                                    "children": "Grading Systems"
+                                },
+                                "children": [
+                                    "Grading Systems"
+                                ]
+                            },
+                            {
+                                "id": "landing-footer-link-in-landing-footer-column-3",
+                                "componentType": "LandingFooterLink",
+                                "props": {
+                                    "href": "#stone",
+                                    "children": "Stone Removal"
+                                },
+                                "children": [
+                                    "Stone Removal"
+                                ]
+                            },
+                            {
+                                "id": "landing-footer-link-in-landing-footer-column-4",
+                                "componentType": "LandingFooterLink",
+                                "props": {
+                                    "href": "#conveying",
+                                    "children": "Conveying Systems"
+                                },
+                                "children": [
+                                    "Conveying Systems"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "landing-footer-column-in-landing-footer-1",
+                        "componentType": "LandingFooterColumn",
+                        "props": {
+                            "title": "Services"
+                        },
+                        "children": [
+                            {
+                                "id": "landing-footer-link-in-landing-footer-column-5",
+                                "componentType": "LandingFooterLink",
+                                "props": {
+                                    "href": "#installation",
+                                    "children": "Installation"
+                                },
+                                "children": [
+                                    "Installation"
+                                ]
+                            },
+                            {
+                                "id": "landing-footer-link-in-landing-footer-column-6",
+                                "componentType": "LandingFooterLink",
+                                "props": {
+                                    "href": "#maintenance",
+                                    "children": "Maintenance"
+                                },
+                                "children": [
+                                    "Maintenance"
+                                ]
+                            },
+                            {
+                                "id": "landing-footer-link-in-landing-footer-column-7",
+                                "componentType": "LandingFooterLink",
+                                "props": {
+                                    "href": "#training",
+                                    "children": "Training"
+                                },
+                                "children": [
+                                    "Training"
+                                ]
+                            },
+                            {
+                                "id": "landing-footer-link-in-landing-footer-column-8",
+                                "componentType": "LandingFooterLink",
+                                "props": {
+                                    "href": "#support",
+                                    "children": "Technical Support"
+                                },
+                                "children": [
+                                    "Technical Support"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "landing-footer-column-in-landing-footer-2",
+                        "componentType": "LandingFooterColumn",
+                        "props": {
+                            "title": "Company"
+                        },
+                        "children": [
+                            {
+                                "id": "landing-footer-link-in-landing-footer-column-9",
+                                "componentType": "LandingFooterLink",
+                                "props": {
+                                    "href": "#about",
+                                    "children": "About Us"
+                                },
+                                "children": [
+                                    "About Us"
+                                ]
+                            },
+                            {
+                                "id": "landing-footer-link-in-landing-footer-column-10",
+                                "componentType": "LandingFooterLink",
+                                "props": {
+                                    "href": "#quality",
+                                    "children": "Quality Assurance"
+                                },
+                                "children": [
+                                    "Quality Assurance"
+                                ]
+                            },
+                            {
+                                "id": "landing-footer-link-in-landing-footer-column-11",
+                                "componentType": "LandingFooterLink",
+                                "props": {
+                                    "href": "#certifications",
+                                    "children": "Certifications"
+                                },
+                                "children": [
+                                    "Certifications"
+                                ]
+                            },
+                            {
+                                "id": "landing-footer-link-in-landing-footer-column-12",
+                                "componentType": "LandingFooterLink",
+                                "props": {
+                                    "href": "#contact",
+                                    "children": "Contact"
+                                },
+                                "children": [
+                                    "Contact"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "landing-footer-column-in-landing-footer-3",
+                        "componentType": "LandingFooterColumn",
+                        "props": {
+                            "title": "Legal"
+                        },
+                        "children": [
+                            {
+                                "id": "landing-footer-link-in-landing-footer-column-13",
+                                "componentType": "LandingFooterLink",
+                                "props": {
+                                    "href": "#privacy",
+                                    "children": "Privacy Policy"
+                                },
+                                "children": [
+                                    "Privacy Policy"
+                                ]
+                            },
+                            {
+                                "id": "landing-footer-link-in-landing-footer-column-14",
+                                "componentType": "LandingFooterLink",
+                                "props": {
+                                    "href": "#terms",
+                                    "children": "Terms of Service"
+                                },
+                                "children": [
+                                    "Terms of Service"
+                                ]
+                            },
+                            {
+                                "id": "landing-footer-link-in-landing-footer-column-15",
+                                "componentType": "LandingFooterLink",
+                                "props": {
+                                    "href": "#warranty",
+                                    "children": "Warranty"
+                                },
+                                "children": [
+                                    "Warranty"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "jsxUrl": "https://hniurelftekdyiheqlqu.supabase.co/storage/v1/object/public/cms/bc76c47d-52fc-48a0-a36e-a93580a3b7bb/jsx-code-689fa678-e31b-4583-a2bf-90ecc638d656-2025-12-15T08-42-40-650Z.tsx",
+        "totalVersions": 1
+    }
+}
