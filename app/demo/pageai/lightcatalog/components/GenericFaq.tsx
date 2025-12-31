@@ -8,6 +8,7 @@ export default function GenericFaq({ data }: { data: CatalogItemData['faq'] }) {
       description={data.description}
       faqItems={data.items}
       innerContainerClassName="container-wide"
+      className="!py-8 !lg:py-10"
     />
   );
 }

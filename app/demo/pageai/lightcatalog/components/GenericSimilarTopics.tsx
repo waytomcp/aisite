@@ -6,7 +6,7 @@ export default function GenericSimilarTopics({ data }: { data: CatalogItemData['
   if (!data || !data.items || data.items.length === 0) return null;
   
   return (
-    <section className="w-full py-12 lg:py-16 bg-slate-50 dark:bg-black flex justify-center">
+    <section className="w-full py-8 lg:py-10 bg-slate-50 dark:bg-black flex justify-center">
       <div className="container-wide w-full px-6">
         <h2 className="text-3xl font-bold mb-8 text-slate-900 dark:text-white">{data.title}</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">

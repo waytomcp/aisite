@@ -1,4 +1,3 @@
-import { ReactNode } from 'react';
 import { LandingProductDetailProps } from '@/components/landing/LandingProductDetail';
 
 export interface CatalogItemData {
@@ -8,8 +7,8 @@ export interface CatalogItemData {
     description: string;
   };
   hero: {
-    title: ReactNode;
-    description: ReactNode;
+    title: string; // Changed from ReactNode to string (assuming titles are simple strings)
+    description: string; // Changed from ReactNode to string (for JSON compatibility, will be rendered as HTML or text)
     buttonText: string;
     buttonLink: string;
     avatarImage: string;
@@ -18,18 +17,18 @@ export interface CatalogItemData {
   };
   intro: {
     title: string;
-    description: ReactNode;
+    description: string; // Changed from ReactNode to string
     features: {
       title: string;
       description: string;
-      iconName: 'MusicIcon' | 'TheaterIcon' | 'VideoIcon' | 'BuildingIcon' | 'ZapIcon' | 'CameraIcon' | 'SettingsIcon';
+      iconName: 'MusicIcon' | 'TheaterIcon' | 'VideoIcon' | 'BuildingIcon' | 'ZapIcon' | 'CameraIcon' | 'SettingsIcon' | 'GridIcon' | 'SunIcon' | 'ShieldIcon';
     }[];
   };
-  products: LandingProductDetailProps[];
+  products: (Omit<LandingProductDetailProps, 'description'> & { description: string })[]; // Override description to be string
   comparison: {
     title: string;
     columns: { key: string; label: string }[];
-    data: { id: string; [key: string]: string }[];
+    data: { id?: string; [key: string]: string | undefined }[];
   };
   expertTips: {
     title: string;
@@ -45,7 +44,7 @@ export interface CatalogItemData {
   cta: {
     title: string;
     description: string;
-    buttons: { text: string; link: string; variant: 'secondary' | 'outline' }[];
+    buttons: { text: string; link: string; variant: 'primary' | 'secondary' | 'outline' }[];
   };
   similarTopics: {
     title: string;

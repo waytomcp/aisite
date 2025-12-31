@@ -1,0 +1,222 @@
+{
+  "metadata": {
+    "title": "The Best Waterproof Moving Light for Outdoor",
+    "description": "Compare the best waterproof moving head beam lights for outdoor and stage performances. Discover how XMLITE IP45 beam lights compare with Clay Paky, Robe, ACME, and Golden Sea in real-world applications.",
+    "keywords": [
+      "moving head beam light",
+      "waterproof beam light",
+      "church stage lighting"
+    ]
+  },
+
+  "hero": {
+    "title": "The Best Waterproof Moving Light for Outdoor",
+    "description": "Designed for outdoor stages, concerts, churches, and touring events, XMLITE’s IP45 moving head beam delivers high-power brightness, a 2.2° narrow beam, and quiet operation — without unnecessary bulk or cost.",
+    "buttonText": "Compare Moving Head Lights"
+  },
+
+  "intro": {
+    "title": "What Makes a Professional Outdoor Beam Moving Head?",
+    "description": "A professional outdoor beam moving head must balance brightness, beam precision, protection level, weight, and noise control. While fully sealed IP65 fixtures target extreme environments, most real-world outdoor performances require a smarter, more efficient solution.",
+    "features": [
+      {
+        "title": "Outdoor Concerts & Festivals",
+        "description": "Long-throw narrow beams with high brightness for open-air stages.",
+        "iconName": "MusicIcon"
+      },
+      {
+        "title": "Church & Theater Lighting",
+        "description": "Low-noise operation suitable for quiet indoor environments.",
+        "iconName": "ChurchIcon"
+      },
+      {
+        "title": "Touring & Rental",
+        "description": "Lightweight design for easy transport and fast setup.",
+        "iconName": "TruckIcon"
+      }
+    ]
+  },
+
+  "products": [
+    {
+      "title": "XMLITE",
+      "tagline": "Purpose-Built IP45 Moving Head Beam Light",
+      "location": "China",
+      "description": "XMLITE focuses on real outdoor performance requirements rather than extreme over-protection. Its IP45 moving head beam light is powered by a 420W OSRAM lamp, offering powerful output, a 2.2° ultra-narrow beam, and excellent noise control for both indoor and outdoor use.",
+      "featureTitle": "Designed for Real Outdoor Performances",
+      "featureDescription": "Instead of fully sealed designs that add weight and cost, XMLITE optimizes protection, performance, and usability for concerts, touring stages, churches, and commercial events.",
+      "pros": [
+        "420W OSRAM high-output beam lamp",
+        "2.2° ultra-narrow beam angle",
+        "IP45 waterproof design optimized for outdoor events",
+        "Low noise suitable for indoor venues",
+        "Lightweight structure ideal for rental and touring"
+      ],
+      "cons": [
+        "Not designed for permanent outdoor installations",
+        "Extreme environments may require IP65 solutions"
+      ],
+      "whoIsItFor": [
+        "Concert and event lighting designers",
+        "Rental and touring companies",
+        "Churches, theaters, and multi-purpose venues"
+      ],
+      "whyWeLoveIt": "A rare balance of power, portability, noise control, and cost-efficiency — built for how stage lights are actually used."
+    },
+    {
+      "title": "Clay Paky",
+      "tagline": "Premium Touring Beam & Hybrid Fixtures",
+      "location": "Italy",
+      "description": "Clay Paky is globally known for its flagship touring fixtures with advanced optical systems, designed primarily for large-scale international productions.",
+      "pros": [
+        "Exceptional optical quality",
+        "Strong global brand recognition",
+        "Tour-grade engineering"
+      ],
+      "cons": [
+        "Higher price point",
+        "Heavier fixtures",
+        "Higher maintenance and operating costs"
+      ]
+    },
+    {
+      "title": "Robe Lighting",
+      "tagline": "Full-Protection Professional Stage Lighting",
+      "location": "Czech Republic",
+      "description": "Robe specializes in fully protected IP65 fixtures built for extreme conditions and permanent outdoor installations.",
+      "pros": [
+        "Excellent durability",
+        "IP65 full protection",
+        "Consistent professional performance"
+      ],
+      "cons": [
+        "Larger size and weight",
+        "Higher noise levels",
+        "Often exceeds real performance needs"
+      ]
+    },
+    {
+      "title": "ACME Lighting",
+      "tagline": "Export-Oriented Professional Lighting Manufacturer",
+      "location": "China",
+      "description": "ACME offers a wide range of beam and waterproof moving head fixtures with proven export performance across global markets.",
+      "pros": [
+        "Mature product lines",
+        "Competitive pricing",
+        "Strong international distribution"
+      ],
+      "cons": [
+        "Standardized designs",
+        "Less focused on specific application scenarios"
+      ]
+    },
+    {
+      "title": "Golden Sea Lighting",
+      "tagline": "OEM & Project-Based Stage Lighting",
+      "location": "China",
+      "description": "Golden Sea primarily serves OEM and engineering projects with cost-driven beam and moving head lighting solutions.",
+      "pros": [
+        "Cost-effective solutions",
+        "Flexible OEM support"
+      ],
+      "cons": [
+        "Limited brand differentiation",
+        "Less emphasis on application storytelling"
+      ]
+    }
+  ],
+
+  "comparison": {
+    "title": "Quick Comparison Overview",
+    "columns": [
+      { "key": "brand", "label": "Brand" },
+      { "key": "protection", "label": "Protection Level" },
+      { "key": "beamAngle", "label": "Beam Angle" },
+      { "key": "noise", "label": "Noise Control" },
+      { "key": "bestUse", "label": "Best Use Case" }
+    ],
+    "data": [
+      {
+        "brand": "XMLITE",
+        "protection": "IP45",
+        "beamAngle": "2.2°",
+        "noise": "Low",
+        "bestUse": "Outdoor events & indoor venues"
+      },
+      {
+        "brand": "Clay Paky",
+        "protection": "IP54 / IP65",
+        "beamAngle": "≈2°",
+        "noise": "Medium",
+        "bestUse": "High-end touring productions"
+      },
+      {
+        "brand": "Robe",
+        "protection": "IP65",
+        "beamAngle": "≈2°",
+        "noise": "Medium–High",
+        "bestUse": "Extreme outdoor environments"
+      },
+      {
+        "brand": "ACME",
+        "protection": "IP54 / IP65",
+        "beamAngle": "≈2°",
+        "noise": "Medium",
+        "bestUse": "General export & engineering projects"
+      },
+      {
+        "brand": "Golden Sea",
+        "protection": "IP54",
+        "beamAngle": "≈2°",
+        "noise": "Medium",
+        "bestUse": "OEM & cost-driven projects"
+      }
+    ]
+  },
+
+  "expertTips": {
+    "title": "Expert Tips: Choosing the Right Beam Moving Head",
+    "description": "Not every outdoor performance requires full IP65 protection. Understanding real application needs helps avoid unnecessary cost and complexity.",
+    "tips": [
+      {
+        "title": "Avoid Over-Protection",
+        "description": "Temporary outdoor events rarely require fully sealed fixtures. IP45 often delivers better balance between performance and portability."
+      },
+      {
+        "title": "Noise Matters Indoors",
+        "description": "Churches and theaters require low-noise fixtures, even for powerful beam effects."
+      }
+    ]
+  },
+
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "Is IP65 necessary for outdoor stage lighting?",
+        "answer": "IP65 is ideal for permanent outdoor installations, but for most temporary outdoor events, IP45 provides sufficient protection with lower weight and cost."
+      },
+      {
+        "question": "Can IP45 moving head beams be used indoors?",
+        "answer": "Yes. IP45 fixtures like XMLITE are designed for both outdoor events and quiet indoor environments such as churches and theaters."
+      }
+    ]
+  },
+
+  "cta": {
+    "title": "Need Help Choosing the Right Moving Head Beam?",
+    "description": "Compare specifications, applications, and real-world performance scenarios with our lighting specialists.",
+    "buttons": [
+      {
+        "text": "Request Product Comparison",
+        "link": "#",
+        "variant": "secondary"
+      },
+      {
+        "text": "Get Expert Advice",
+        "link": "#",
+        "variant": "outline"
+      }
+    ]
+  }
+}

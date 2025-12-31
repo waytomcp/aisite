@@ -81,6 +81,7 @@ export const ProductPageTemplate = ({ data }: { data: CatalogItemData }) => {
           <LandingProductDetail
             key={index}
             {...product}
+            description={<span dangerouslySetInnerHTML={{ __html: product.description }} />}
             cardBackgroundClassName={cardGradients[index % cardGradients.length]}
           />
         ))}

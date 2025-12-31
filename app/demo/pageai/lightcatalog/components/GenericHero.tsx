@@ -12,9 +12,10 @@ export default function GenericHero({ data }: { data: CatalogItemData['hero'] })
         </h1>
       }
       descriptionComponent={
-        <div className="text-lg md:text-xl text-center text-slate-500 dark:text-gray-300 max-w-4xl mx-auto mb-8">
-          {data.description}
-        </div>
+        <div 
+          className="text-lg md:text-xl text-center text-slate-500 dark:text-gray-300 max-w-4xl mx-auto mb-8"
+          dangerouslySetInnerHTML={{ __html: data.description }}
+        />
       }
       withBackgroundGlow
       variant="primary"

@@ -51,15 +51,15 @@ export const LandingProductDetail = ({
       <div className="container-wide mx-auto px-6 pb-6 pt-0">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12 items-start">
           <div className="flex flex-col gap-6">
-            <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold text-white leading-tight">
+            <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold text-slate-900 dark:text-white leading-tight">
               {title}
             </h2>
             <div className="space-y-6">
-              <div className="text-lg text-gray-300">
+              <div className="text-lg text-slate-500 dark:text-gray-300">
                 {description}
               </div>
               {location && (
-                <div className="flex items-center gap-2 text-gray-500 text-sm font-medium">
+                <div className="flex items-center gap-2 text-slate-500 dark:text-gray-500 text-sm font-medium">
                    <MapPinIcon className="w-4 h-4" />
                    <span>{location}</span>
                 </div>
@@ -108,13 +108,13 @@ export const LandingProductDetail = ({
       {hasFeatures && (
         <div className="container-wide mx-auto px-6 pb-12 mt-8 w-full">
            {featureTitle && (
-             <h3 className="text-2xl md:text-3xl font-bold mb-6 text-white">
+             <h3 className="text-2xl md:text-3xl font-bold mb-6 text-slate-900 dark:text-white">
                {featureTitle}
              </h3>
            )}
            
            {featureDescription && (
-             <div className="text-gray-300 mb-10 max-w-4xl text-lg leading-relaxed">
+             <div className="text-slate-500 dark:text-gray-300 mb-10 max-w-4xl text-lg leading-relaxed">
                {featureDescription}
              </div>
            )}
@@ -123,12 +123,12 @@ export const LandingProductDetail = ({
               {/* Pros */}
               {pros.length > 0 && (
                 <div>
-                  <h4 className="font-semibold text-xl mb-4 text-white flex items-center gap-2">
+                  <h4 className="font-semibold text-xl mb-4 text-slate-900 dark:text-white flex items-center gap-2">
                     <span className="text-green-500">Pros</span>
                   </h4>
                   <ul className="space-y-3">
                     {pros.map((item, index) => (
-                      <li key={index} className="flex items-start gap-3 text-gray-300">
+                      <li key={index} className="flex items-start gap-3 text-slate-600 dark:text-gray-300">
                         <CheckIcon className="w-5 h-5 text-green-500 mt-0.5 shrink-0" />
                         <span>{item}</span>
                       </li>
@@ -140,12 +140,12 @@ export const LandingProductDetail = ({
               {/* Cons */}
               {cons.length > 0 && (
                 <div>
-                  <h4 className="font-semibold text-xl mb-4 text-white flex items-center gap-2">
+                  <h4 className="font-semibold text-xl mb-4 text-slate-900 dark:text-white flex items-center gap-2">
                     <span className="text-red-500">Cons</span>
                   </h4>
                    <ul className="space-y-3">
                     {cons.map((item, index) => (
-                      <li key={index} className="flex items-start gap-3 text-gray-300">
+                      <li key={index} className="flex items-start gap-3 text-slate-600 dark:text-gray-300">
                         <XIcon className="w-5 h-5 text-red-500 mt-0.5 shrink-0" />
                         <span>{item}</span>
                       </li>
@@ -156,9 +156,9 @@ export const LandingProductDetail = ({
               
                {/* Who It's For */}
               {whoIsItFor.length > 0 && (
-                <div className="bg-gray-900/50 p-6 rounded-xl border border-gray-800">
-                  <h4 className="font-semibold text-lg mb-4 text-white">Who They're For</h4>
-                   <ul className="space-y-3 text-gray-300">
+                <div className="bg-slate-100 dark:bg-gray-900/50 p-6 rounded-xl border border-slate-200 dark:border-gray-800">
+                  <h4 className="font-semibold text-lg mb-4 text-slate-900 dark:text-white">Who They're For</h4>
+                   <ul className="space-y-3 text-slate-600 dark:text-gray-300">
                     {whoIsItFor.map((item, index) => (
                       <li key={index} className="flex items-start gap-2">
                         <span className="w-1.5 h-1.5 bg-primary-500 rounded-full mt-2 shrink-0"></span>
@@ -171,9 +171,9 @@ export const LandingProductDetail = ({
               
                {/* Why We Love It */}
               {whyWeLoveIt && (
-                <div className="bg-primary-900/20 p-6 rounded-xl border border-primary-900/50">
-                  <h4 className="font-semibold text-lg mb-4 text-primary-300">Why We Love Them</h4>
-                  <div className="text-gray-300 text-lg">
+                <div className="bg-primary-50 dark:bg-primary-900/20 p-6 rounded-xl border border-primary-100 dark:border-primary-900/50">
+                  <h4 className="font-semibold text-lg mb-4 text-primary-700 dark:text-primary-300">Why We Love Them</h4>
+                  <div className="text-slate-600 dark:text-gray-300 text-lg">
                     {whyWeLoveIt}
                   </div>
                 </div>

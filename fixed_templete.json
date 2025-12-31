@@ -1,0 +1,59 @@
+{
+  "slug": "the_best_led_bar_with_pixel_control_16_zones",
+  "hero": {
+    "buttonLink": "#comparison",
+    "avatarImage": "https://picsum.photos/id/1015/100/100",
+    "avatarName": "Lighting Expert",
+    "reportText": "Review by"
+  },
+  "comparison": {
+    "data": [
+      {
+        "id": "movinghead"
+      },
+      {
+        "id": "goldensea"
+      },
+      {
+        "id": "robe"
+      },
+      {
+        "id": "claypaky"
+      }
+    ]
+  },
+  "expertTips": {
+    "title": "Expert Tips for LED Bars",
+    "description": "Maximize the impact of your lighting setup.",
+    "imageSrc": "https://picsum.photos/id/1018/1000/600",
+    "tips": [
+      {
+        "title": "Check DMX Channels",
+        "description": "Ensure your console has enough DMX channels for 16-zone control."
+      },
+      {
+        "title": "Heat Management",
+        "description": "Allow proper ventilation when installing high-power LED bars."
+      }
+    ]
+  },
+  "faq": {
+    "description": "Common questions about LED Bars with Pixel Control."
+  },
+  "cta": {
+    "buttons": [
+      {
+        "link": "https://www.movinghead.net",
+        "variant": "primary"
+      },
+      {
+        "link": "#contact",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "similarTopics": {
+    "title": "Related Articles",
+    "items": []
+  }
+}

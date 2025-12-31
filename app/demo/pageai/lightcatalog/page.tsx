@@ -1,15 +1,49 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/shared/ui/card';
 import Image from 'next/image';
 import Link from 'next/link';
-import { products } from './data/products';
 import { LandingHeader } from '@/components/landing/navigation/LandingHeader';
 import { LandingHeaderMenuItem } from '@/components/landing/navigation/LandingHeaderMenuItem';
 import { LandingFooter } from '@/components/landing/footer/LandingFooter';
 import { OrbitIcon } from 'lucide-react';
 import { LandingPrimaryTextCtaSection } from '@/components/landing/cta/LandingPrimaryCta';
 import ThemeSwitch from '@/components/shared/ThemeSwitch';
+import { LanguageSwitch } from './components/LanguageSwitch';
+import fs from 'fs';
+import path from 'path';
+import { CatalogItemData } from './data/types';
 
-export default function CatalogIndexPage() {
+async function getProducts(lang: string = 'en'): Promise<CatalogItemData[]> {
+  const dataDir = path.join(process.cwd(), 'app/demo/pageai/lightcatalog/data', lang);
+  const items: CatalogItemData[] = [];
+  
+  if (fs.existsSync(dataDir)) {
+    const files = fs.readdirSync(dataDir);
+    for (const file of files) {
+      if (file.endsWith('.tsx') || file.endsWith('.json')) {
+        const slug = file.replace(/\.(tsx|json)$/, '');
+        try {
+           // Dynamic import
+           const productModule = await import(`./data/${lang}/${slug}`);
+           if (productModule.default) {
+             items.push(productModule.default);
+           }
+        } catch (e) {
+          console.error(`Error loading product ${slug}:`, e);
+        }
+      }
+    }
+  }
+  return items;
+}
+
+export default async function CatalogIndexPage({
+  searchParams,
+}: {
+  searchParams: { [key: string]: string | string[] | undefined };
+}) {
+  const lang = (typeof searchParams?.lang === 'string' ? searchParams.lang : 'en') || 'en';
+  const products = await getProducts(lang);
+
   return (
     <div className="min-h-screen bg-slate-50 dark:bg-black text-slate-900 dark:text-white flex flex-col items-center">
       <LandingHeader
@@ -23,8 +57,10 @@ export default function CatalogIndexPage() {
         }
       >
         <LandingHeaderMenuItem href="/demo/pageai/lightcatalog" label="Catalog" />
-        <LandingHeaderMenuItem href="#" label="Reviews" />
-        <LandingHeaderMenuItem href="#" label="Guides" />
+        <LandingHeaderMenuItem href="#products" label="Products" />
+        <LandingHeaderMenuItem href="#comparison" label="Comparison" />
+        <LandingHeaderMenuItem href="#faq" label="FAQ" />
+        <LanguageSwitch />
         <ThemeSwitch />
       </LandingHeader>
 
@@ -52,7 +88,7 @@ export default function CatalogIndexPage() {
           <div className="container-wide w-full px-6">
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               {products.map((product) => (
-                <Link key={product.slug} href={`/demo/pageai/lightcatalog/${product.slug}`} className="block group h-full">
+                <Link key={product.slug} href={`/demo/pageai/lightcatalog/${lang}/${product.slug}`} className="block group h-full">
                   <Card className="bg-white dark:bg-gray-900 border-slate-200 dark:border-gray-800 overflow-hidden hover:border-primary-500/50 transition-all duration-300 h-full flex flex-col">
                     <div className="relative h-56 w-full overflow-hidden">
                       <Image 

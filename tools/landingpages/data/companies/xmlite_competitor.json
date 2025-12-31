@@ -1,0 +1,1102 @@
+{
+  "company_info_summary": "\n    MovingHead.net offers a comprehensive portfolio of professional lighting products, including:\n    * LED Profile / Framing Moving Head Lights\n    * Beam Moving Head Lights (260W / 400W / 480W / 500W series)\n    * Beam-Spot-Wash Hybrid Moving Heads\n    * LED Wash and Zoom Wash Moving Heads\n    * Follow Spot Lights\n    * PAR Lights and Studio Lighting Fixtures\n    \n    Several flagship LED profile moving head models deliver over 50,000 lumens, \n    representing a brightness improvement of appr...",
+  "extracted_dimensions": [
+    {
+      "name": "LED Profile / Framing Moving Head Lights",
+      "description": "LED轮廓/造型摇头灯，用于投射清晰、可塑形的光束，常用于切割光线、塑造特定形状或图案。",
+      "tech_features": "高亮度（如超50000流明）、高显色指数、可调光、可调焦、内置图案片/造型片、静音运行、轻量化设计（相比前代减重15-18%）。",
+      "search_keywords": [
+        "LED轮廓摇头灯",
+        "LED造型灯",
+        "高流明摇头灯",
+        "Framing Moving Head",
+        "Profile Moving Head"
+      ]
+    },
+    {
+      "name": "Beam Moving Head Lights",
+      "description": "光束摇头灯，以产生强烈、集中的平行光束为主要特点，常用于创造震撼的空中光束效果。",
+      "tech_features": "高功率（如260W, 400W, 480W, 500W系列）、窄光束角、高亮度、快速频闪、丰富的颜色和图案效果、支持棱镜效果。",
+      "search_keywords": [
+        "光束摇头灯",
+        "Beam Moving Head",
+        "高功率光束灯",
+        "光束效果灯",
+        "摇头光束灯系列"
+      ]
+    },
+    {
+      "name": "Beam-Spot-Wash Hybrid Moving Heads",
+      "description": "光束-图案-染色三合一混合型摇头灯，集多种功能于一体，提供极大的使用灵活性。",
+      "tech_features": "一灯多能（光束、图案、染色模式可切换）、可变光束角、丰富的内置图案和颜色轮、高输出亮度、多功能光学系统。",
+      "search_keywords": [
+        "三合一摇头灯",
+        "混合型摇头灯",
+        "Beam Spot Wash Hybrid",
+        "多功能摇头灯",
+        "摇头染色图案灯"
+      ]
+    },
+    {
+      "name": "LED Wash and Zoom Wash Moving Heads",
+      "description": "LED染色及变焦染色摇头灯，用于大面积、均匀的色彩渲染和照明，变焦功能可调节覆盖范围。",
+      "tech_features": "LED光源、高显色指数、平滑混色、大范围变焦、均匀的光斑、高光通量输出、低功耗。",
+      "search_keywords": [
+        "LED染色摇头灯",
+        "变焦染色灯",
+        "Wash Moving Head",
+        "Zoom Wash",
+        "LED混色灯"
+      ]
+    },
+    {
+      "name": "Follow Spot Lights",
+      "description": "追光灯，用于在舞台上跟踪和突出表演者，通常要求光斑均匀、可控且操作灵活。",
+      "tech_features": "长投射距离、高亮度、平滑变焦、机械或手动控制光圈、色温可调、操作员控制台或远程控制。",
+      "search_keywords": [
+        "追光灯",
+        "Follow Spot",
+        "追踪灯",
+        "舞台追光",
+        "长焦追光灯"
+      ]
+    },
+    {
+      "name": "PAR Lights and Studio Lighting Fixtures",
+      "description": "PAR灯及演播室照明灯具，包括PAR灯、平板灯等，用于基础照明、背景光或演播室固定布光。",
+      "tech_features": "PAR灯阵（多种尺寸如PAR64, PAR56）、LED光源、高显色指数、可调色温、调光平滑、轻便耐用、易于安装。",
+      "search_keywords": [
+        "PAR灯",
+        "演播室灯",
+        "Studio Lighting",
+        "LED PAR灯",
+        "基础照明灯具"
+      ]
+    }
+  ],
+  "competitor_analysis": {
+    "LED Profile / Framing Moving Head Lights": {
+      "dimension_info": {
+        "name": "LED Profile / Framing Moving Head Lights",
+        "description": "LED轮廓/造型摇头灯，用于投射清晰、可塑形的光束，常用于切割光线、塑造特定形状或图案。",
+        "tech_features": "高亮度（如超50000流明）、高显色指数、可调光、可调焦、内置图案片/造型片、静音运行、轻量化设计（相比前代减重15-18%）。",
+        "search_keywords": [
+          "LED轮廓摇头灯",
+          "LED造型灯",
+          "高流明摇头灯",
+          "Framing Moving Head",
+          "Profile Moving Head"
+        ]
+      },
+      "competitors": [
+        {
+          "company_name": "广州市浩洋电子股份有限公司",
+          "brand_name": "GOLDENSEA",
+          "product_line_expertise": "专业舞台灯光、建筑照明及文旅演艺灯光设备的研发、生产与销售，产品线覆盖全面，尤其在大型文旅项目和专业剧场领域有深厚积累。",
+          "headquarters": "中国广东省广州市",
+          "founding_year": "2005",
+          "core_tech_focus": "高亮度LED光源技术、精准光学与调焦系统、静音散热与驱动技术、智能化控制系统。其产品以高光效、高可靠性和出色的光学性能著称。",
+          "main_product_series": "GOLDENSEA G系列、GS系列等",
+          "representative_models": [
+            "GOLDENSEA G12 HYBRID",
+            "GOLDENSEA GS700"
+          ],
+          "key_parameters": {
+            "亮度": "G12 HYBRID可达约60000流明（白光模式）",
+            "显色指数": "CRI ≥ 85 (典型值，部分模式可更高)",
+            "调光": "0-100%线性调光",
+            "调焦": "电动变焦，范围宽广",
+            "图案片": "内置旋转图案轮，含多个固定图案片及可更换造型片槽",
+            "噪音水平": "采用静音散热设计，运行噪音低（具体分贝值需查询最新规格书）",
+            "重量": "相比传统同亮度产品，采用轻量化结构设计"
+          },
+          "special_features": [
+            "混合光源技术（如G12 HYBRID），结合LED与激光或其它光源优势",
+            "高精度 framing（造型）功能，可投射清晰、可调形状的光斑",
+            "强大的颜色混合系统，色彩还原逼真",
+            "支持主流灯光控制协议，如Art-Net, sACN, RDM等",
+            "IP防护等级可选，适用于户外或苛刻环境"
+          ],
+          "typical_applications": [
+            "大型文旅实景演出",
+            "电视台演播厅",
+            "专业剧院与音乐厅",
+            "大型演唱会及巡演",
+            "主题公园灯光秀"
+          ],
+          "channel_characteristics": "采用“直销+经销”结合模式。在国内及国际通过授权经销商和工程商网络进行销售，并为大型项目提供直接技术支持与解决方案。",
+          "industry_perception_tags": [
+            "国产高端品牌代表",
+            "技术扎实可靠",
+            "大型项目首选之一",
+            "高性价比（相对于国际顶级品牌）"
+          ],
+          "notable_projects": [
+            "北京冬奥会开闭幕式",
+            "上海中心大厦灯光秀",
+            "多项国家级大型庆典活动"
+          ],
+          "sources": [
+            "浩洋股份官方网站产品介绍",
+            "行业媒体（如《演艺科技》）评测报告",
+            "大型项目案例报道"
+          ]
+        },
+        {
+          "company_name": "ROBE Lighting s.r.o.",
+          "brand_name": "ROBE",
+          "product_line_expertise": "全球领先的专业舞台灯光制造商，以创新的摇头灯和特效灯闻名，产品设计注重创意表现与可靠性，深受顶级租赁公司和演出制作团队青睐。",
+          "headquarters": "捷克",
+          "founding_year": "1991",
+          "core_tech_focus": "创新的光学引擎与镜头设计、高效散热与静音技术、坚固的机械结构与运动系统、直观的软件与控制集成。",
+          "main_product_series": "MegaPointe系列、BMFL系列（其高亮度引擎也用于造型灯）",
+          "representative_models": [
+            "ROBE FORCE",
+            "ROBE BMFL WashBeam (具备强大的造型功能)"
+          ],
+          "key_parameters": {
+            "亮度": "FORCE型号采用BMFL引擎，亮度极高（具体流明值因型号和模式而异，可达数万流明）",
+            "显色指数": "高CRI选项，提供出色的色彩还原",
+            "调光": "超平滑线性调光",
+            "调焦": "电动变焦，范围可调",
+            "图案片": "内置图案轮和造型片系统，可进行精确的硬边切割（framing）",
+            "噪音水平": "注重静音设计，适合电视录制和安静剧场环境",
+            "重量": "在保证结构强度的前提下进行轻量化设计"
+          },
+          "special_features": [
+            "专利的BMFL（Bright Multi-Function Light）光源模块，亮度与功能强大",
+            "“BeamWash”功能，一键在聚光（Beam）和染色（Wash）特性间平滑转换",
+            "ROBOTIC模式，提供超快、精准的机械运动",
+            "先进的色彩系统，包括双色温白光和全彩混色",
+            "坚固的压铸铝外壳，适合巡演级应用"
+          ],
+          "typical_applications": [
+            "世界级巡回演唱会",
+            "大型电视节目制作（如 Eurovision, 奥运会转播）",
+            "顶级剧院和歌剧制作",
+            "大型现场音乐节",
+            "高端租赁库存"
+          ],
+          "channel_characteristics": "全球分销网络，通过各国专业的灯光设备经销商和租赁公司销售。提供强大的技术支持和培训。",
+          "industry_perception_tags": [
+            "全球顶级品牌",
+            "创新领导者",
+            "巡演级可靠性",
+            "创意设计师的宠儿"
+          ],
+          "notable_projects": [
+            "U2, Coldplay等世界巨星巡演",
+            "欧洲电视网歌唱大赛",
+            "伦敦奥运会开幕式"
+          ],
+          "sources": [
+            "ROBE官方网站及产品手册",
+            "国际行业杂志（如 TPi, Lighting&Sound International）",
+            "大型演出技术揭秘文章"
+          ]
+        },
+        {
+          "company_name": "Clay Paky S.p.A.",
+          "brand_name": "Clay Paky",
+          "product_line_expertise": "意大利传奇舞台灯光品牌，以设计精美、光学卓越和创意无限的产品著称，是造型灯（Profile）和图案灯领域的标杆之一，现为飞利浦（Signify）集团旗下品牌。",
+          "headquarters": "意大利",
+          "founding_year": "1976",
+          "core_tech_focus": "卓越的光学与镜头系统、精准的图案投影与造型（framing）技术、艺术性的光效设计、高品质的机械制造。",
+          "main_product_series": "Mythos系列、B-EYE系列",
+          "representative_models": [
+            "Clay Paky Mythos 2",
+            "Clay Paky B-EYE K20"
+          ],
+          "key_parameters": {
+            "亮度": "Mythos 2采用高功率LED光源，亮度表现优异（具体流明值需参考最新数据，符合高亮度趋势）",
+            "显色指数": "高CRI版本可选，满足电视级色彩要求",
+            "调光": "高精度线性调光",
+            "调焦": "电动变焦，成像清晰",
+            "图案片": "经典且强大的图案投影系统，内置多个图案轮和造型片，支持旋转、抖动等效果",
+            "噪音水平": "低噪音运行设计",
+            "重量": "在保持意大利设计美学和结构坚固性的同时，进行工程优化以控制重量"
+          },
+          "special_features": [
+            "标志性的“造型切割”系统，可产生极其锐利和可编程的几何形状光斑",
+            "“图形引擎”，可投影复杂的自定义图案和动画",
+            "出色的CMY+CTO混色系统",
+            "创新的“双图形”系统，可同时叠加两个不同的图案效果",
+            "优雅且极具辨识度的工业设计"
+          ],
+          "typical_applications": [
+            "高端剧院、歌剧和舞蹈演出",
+            "电视演播室和大型颁奖典礼",
+            "世界级音乐会巡演",
+            "固定安装于高端娱乐场所和剧院"
+          ],
+          "channel_characteristics": "通过全球精选的高端专业经销商网络销售，与顶级灯光设计师和租赁公司有长期深度合作。",
+          "industry_perception_tags": [
+            "光学艺术大师",
+            "造型灯鼻祖/标杆",
+            "意大利设计典范",
+            "高端剧场首选"
+          ],
+          "notable_projects": [
+            "多次参与《歌剧魅影》等经典音乐剧全球巡演",
+            "欧洲各大国家级剧院固定安装",
+            "艾美奖、格莱美奖等颁奖典礼"
+          ],
+          "sources": [
+            "Clay Paky官方网站及产品资料",
+            "行业历史与评测资料",
+            "专业灯光设计师访谈与案例研究"
+          ]
+        }
+      ]
+    },
+    "Beam Moving Head Lights": {
+      "dimension_info": {
+        "name": "Beam Moving Head Lights",
+        "description": "光束摇头灯，以产生强烈、集中的平行光束为主要特点，常用于创造震撼的空中光束效果。",
+        "tech_features": "高功率（如260W, 400W, 480W, 500W系列）、窄光束角、高亮度、快速频闪、丰富的颜色和图案效果、支持棱镜效果。",
+        "search_keywords": [
+          "光束摇头灯",
+          "Beam Moving Head",
+          "高功率光束灯",
+          "光束效果灯",
+          "摇头光束灯系列"
+        ]
+      },
+      "competitors": [
+        {
+          "company_name": "广州市浩洋电子股份有限公司",
+          "brand_name": "GOLDENSEA",
+          "product_line_expertise": "专业舞台灯光、建筑照明及文旅演艺灯光设备制造商，在光束摇头灯领域以高亮度、高稳定性和丰富的效果著称。",
+          "headquarters": "中国广东省广州市",
+          "founding_year": "2005",
+          "core_tech_focus": "高功率气体放电泡及LED光源应用、精密光学系统、高速运动控制、热管理技术。",
+          "main_product_series": "G系列、GS系列光束摇头灯",
+          "representative_models": [
+            "G12 HYBRID",
+            "GS1000 BEAM"
+          ],
+          "key_parameters": {
+            "光源功率": "GS1000 BEAM采用1000W气体放电泡",
+            "亮度": "极高流明输出，光束感强",
+            "光束角": "窄光束角，典型值约3.5°",
+            "频闪": "支持高速频闪",
+            "颜色系统": "CMY+CTO混色，色轮",
+            "图案效果": "内置旋转图案盘、棱镜效果（如8棱镜、16棱镜）"
+          },
+          "special_features": [
+            "HYBRID（混合光源）技术，结合放电泡与LED优势",
+            "IP65防护等级（部分户外型号）",
+            "内置宏效果和像素映射功能",
+            "航空级铝合金压铸机身，散热好"
+          ],
+          "typical_applications": [
+            "大型演唱会、音乐节",
+            "电视台演播厅",
+            "剧院及大型场馆",
+            "户外文旅演艺项目"
+          ],
+          "channel_characteristics": "全球分销网络，通过专业灯光工程商、租赁商和经销商销售，直接参与大型项目投标。",
+          "industry_perception_tags": [
+            "国产品牌高端代表",
+            "可靠性高",
+            "亮度标杆",
+            "大型项目常用品牌"
+          ],
+          "notable_projects": [
+            "2022年北京冬奥会开闭幕式",
+            "央视春晚",
+            "多项国际巨星世界巡回演唱会"
+          ],
+          "sources": [
+            "浩洋股份官方网站产品介绍",
+            "专业灯光媒体（如《演艺科技》）评测报告",
+            "行业展会（如PALM展、GETshow）产品资料"
+          ]
+        },
+        {
+          "company_name": "广州市珠江灯光科技有限公司",
+          "brand_name": "PR Lighting",
+          "product_line_expertise": "综合性舞台灯光设备制造商，光束摇头灯产品线丰富，覆盖从中端到高功率专业市场，以性价比和快速的产品迭代见长。",
+          "headquarters": "中国广东省广州市",
+          "founding_year": "1998",
+          "core_tech_focus": "高效光学引擎设计、电机驱动与控制算法、轻量化结构设计、智能化控制系统集成。",
+          "main_product_series": "X系列、G系列光束摇头灯",
+          "representative_models": [
+            "XLED 550 BEAM",
+            "G20B BEAST"
+          ],
+          "key_parameters": {
+            "光源功率": "G20B BEAST采用1500W气体放电泡，XLED 550 BEAM采用550W LED",
+            "亮度": "G20B系列以超高亮度闻名",
+            "光束角": "极窄光束，最小可达2.5°",
+            "频闪": "超高速频闪，支持随机频闪效果",
+            "颜色系统": "全彩色CMY混色+CTO，独立色轮",
+            "图案效果": "多个旋转图案盘，支持棱镜（3/5/8棱镜）及棱镜旋转、扩散效果"
+          },
+          "special_features": [
+            "\"BEAST\"系列主打极限亮度和穿透力",
+            "LED光束灯产品线，兼顾高亮与低功耗",
+            "内置无线DMX接收模块（可选）",
+            "图形化液晶显示屏，设置便捷"
+          ],
+          "typical_applications": [
+            "夜店、酒吧、Livehouse",
+            "中型演唱会及商业演出",
+            "剧院及多功能厅",
+            "租赁市场"
+          ],
+          "channel_characteristics": "国内外分销体系完善，代理商网络强大，产品现货供应能力强，在租赁市场占有率较高。",
+          "industry_perception_tags": [
+            "市场覆盖面广",
+            "产品线齐全",
+            "性价比高",
+            "租赁市场宠儿"
+          ],
+          "notable_projects": [
+            "国内众多省级电视台节目制作",
+            "大型商业地产开业庆典",
+            "全国巡回音乐节"
+          ],
+          "sources": [
+            "PR Lighting官方网站及产品手册",
+            "行业媒体新品发布资讯",
+            "灯光租赁商采购清单及反馈"
+          ]
+        },
+        {
+          "company_name": "ROBE Lighting s.r.o.",
+          "brand_name": "ROBE",
+          "product_line_expertise": "捷克高端专业舞台灯光品牌，以创新的设计、卓越的光学性能和无与伦比的可靠性享誉全球，是大型巡演和顶级场馆的首选品牌之一。",
+          "headquarters": "捷克",
+          "founding_year": "1991",
+          "core_tech_focus": "专利光学系统（如MegaPointe的独特光学路径）、色彩科学与渲染、超静音机械设计、坚固耐用的巡演级结构。",
+          "main_product_series": "MegaPointe, BMFL系列, Pointe系列",
+          "representative_models": [
+            "MegaPointe",
+            "BMFL Blade"
+          ],
+          "key_parameters": {
+            "光源功率": "BMFL系列采用高功率LED引擎（等效于传统1500W以上放电泡），MegaPointe采用定制光源",
+            "亮度": "行业顶级亮度水平，光束纯净锐利",
+            "光束角": "可变光束角，范围从极窄到宽角度",
+            "频闪": "超平滑且亮度无衰减的电子频闪",
+            "颜色系统": "全CMY混色，加色片轮和线性CTO，色彩还原度极高",
+            "图案效果": "多个图案轮，包含金属图案片；创新的棱镜组合效果（如PixelPointe技术）"
+          },
+          "special_features": [
+            "MegaPointe：集光束、图案、染色、像素映射于一体的多功能超级摇头灯",
+            "BMFL Blade：可调节光束形状（从圆形到刀片状）",
+            "ROBOTICS：先进的运动控制系统，速度与精度俱佳",
+            "所有产品为巡演级（Tour Grade）标准制造"
+          ],
+          "typical_applications": [
+            "国际巨星世界巡回演唱会（如U2, Coldplay, Ed Sheeran）",
+            "顶级电视节目和颁奖典礼（如Eurovision，奥斯卡）",
+            "著名剧院和歌剧院",
+            "大型国际体育赛事开闭幕式"
+          ],
+          "channel_characteristics": "通过精选的、专业的国家级或地区级代理商进行销售和技术支持，定位高端专业市场，提供深度定制化服务。",
+          "industry_perception_tags": [
+            "行业创新领导者",
+            "巡演级标准",
+            "光学性能标杆",
+            "高端、昂贵、可靠"
+          ],
+          "notable_projects": [
+            "Eurovision Song Contest多年官方灯光合作伙伴",
+            "奥运会开闭幕式（如伦敦2012，里约2016）",
+            "众多格莱美奖、奥斯卡奖颁奖典礼"
+          ],
+          "sources": [
+            "ROBE Lighting全球官方网站",
+            "国际专业灯光杂志（如Lighting&Sound International, TPi）评测与报道",
+            "大型演唱会技术幕后案例分享"
+          ]
+        }
+      ]
+    },
+    "Beam-Spot-Wash Hybrid Moving Heads": {
+      "dimension_info": {
+        "name": "Beam-Spot-Wash Hybrid Moving Heads",
+        "description": "光束-图案-染色三合一混合型摇头灯，集多种功能于一体，提供极大的使用灵活性。",
+        "tech_features": "一灯多能（光束、图案、染色模式可切换）、可变光束角、丰富的内置图案和颜色轮、高输出亮度、多功能光学系统。",
+        "search_keywords": [
+          "三合一摇头灯",
+          "混合型摇头灯",
+          "Beam Spot Wash Hybrid",
+          "多功能摇头灯",
+          "摇头染色图案灯"
+        ]
+      },
+      "competitors": [
+        {
+          "company_name": "广州市浩洋电子股份有限公司",
+          "brand_name": "GOLDENSEA",
+          "product_line_expertise": "专业舞台灯光、建筑照明及文旅景观照明设备制造商，产品线覆盖全面，在光束灯、图案灯、染色灯及混合型灯具领域均有深厚技术积累。",
+          "headquarters": "中国广州",
+          "founding_year": "2005",
+          "core_tech_focus": "高亮度光学引擎、高效散热系统、精准颜色混合与图案投射、智能控制系统集成。",
+          "main_product_series": "GOLDENSEA 三合一摇头灯系列",
+          "representative_models": [
+            "GS-700 BSW HYBRID",
+            "GS-1000 BSW HYBRID"
+          ],
+          "key_parameters": {
+            "光源": "高亮度LED或激光光源（视型号）",
+            "光束角范围": "通常为0°至50°可变",
+            "亮度输出": "高流明输出（具体数值因型号而异，例如GS-1000可达数万流明）",
+            "图案系统": "内置旋转图案盘（含多个固定图案及空白位）",
+            "颜色系统": "全彩色CMY+CTO混色系统，附加固定颜色轮",
+            "运动系统": "高精度步进电机，支持快速平滑定位"
+          },
+          "special_features": [
+            "一灯三模式：可在光束、图案、染色三种模式间快速无缝切换。",
+            "可变光束角：通过光学变焦系统实现光束角度的连续平滑变化。",
+            "高显色性与色彩饱和度：确保染色均匀纯净，图案清晰锐利。",
+            "IP防护等级：部分高端型号具备防尘防水能力，适用于户外或苛刻环境。",
+            "内置宏效果与像素映射功能：支持复杂的动态灯光效果编程。"
+          ],
+          "typical_applications": [
+            "剧院、音乐厅、电视台演播室",
+            "大型演唱会、音乐节",
+            "文旅夜游、主题公园秀场",
+            "高端商业活动、发布会"
+          ],
+          "channel_characteristics": "主要通过专业灯光工程商、系统集成商和经销商网络进行销售，在国内外市场均有广泛渠道布局，尤其在中国及亚洲市场渠道渗透力强。",
+          "industry_perception_tags": [
+            "国产品牌领导者",
+            "高性价比",
+            "产品线齐全",
+            "可靠性高",
+            "工程适用性强"
+          ],
+          "notable_projects": [
+            "中国多个省级电视台演播厅灯光系统",
+            "大型实景演出《印象》系列部分项目",
+            "国内外多个音乐节主舞台灯光"
+          ],
+          "sources": [
+            "GOLDENSEA官方网站产品目录",
+            "专业灯光行业媒体（如《演艺科技》）评测报告",
+            "灯光工程商产品推荐列表"
+          ]
+        },
+        {
+          "company_name": "ROBE Lighting s.r.o.",
+          "brand_name": "ROBE",
+          "product_line_expertise": "全球顶尖的专业舞台灯光制造商，以创新的设计、卓越的光学性能和可靠性著称，其摇头灯产品（尤其是多功能混合型）是行业标杆之一。",
+          "headquarters": "捷克",
+          "founding_year": "1991",
+          "core_tech_focus": "革命性的光学与机械设计、独特的色彩与图案渲染技术、强大的软件与控制系统、极致的耐用性。",
+          "main_product_series": "MegaPointe 系列， Spiider 系列（虽为 wash/beam 混合，但理念相近）",
+          "representative_models": [
+            "MegaPointe",
+            "Spiider"
+          ],
+          "key_parameters": {
+            "光源": "高亮度LED光源（如MegaPointe采用定制LED引擎）",
+            "光束角范围": "超宽可变范围（如MegaPointe光束角可变范围极广）",
+            "亮度输出": "行业领先的极高亮度",
+            "图案系统": "创新的双图案轮系统（MegaPointe），提供极高的创意灵活性。",
+            "颜色系统": "先进的混色系统，色彩丰富、过渡平滑。",
+            "运动系统": "超静音、高速、精准的定位系统。"
+          },
+          "special_features": [
+            "革命性“混合”概念：MegaPointe 不仅仅是BSW混合，更融合了像素矩阵效果，开创了新的灯具类别。",
+            "双图案轮与效果轮：提供无与伦比的图案组合和动态效果能力。",
+            "ROBE ColorMix 系统：卓越的色彩还原与混合能力。",
+            "超静音运行：适合对噪音要求极高的剧院、电视录制环境。",
+            "坚固的航空铝材结构：专为高强度的巡演使用而设计。"
+          ],
+          "typical_applications": [
+            "全球顶级巡回演唱会",
+            "大型电视选秀节目及颁奖典礼",
+            "知名剧院和歌剧院的驻场演出",
+            "国际级大型活动开幕式（如奥运会、世博会）"
+          ],
+          "channel_characteristics": "全球化的专业分销和租赁商网络，与顶级灯光设计师、租赁公司和制作公司有深度合作，产品主要面向高端专业市场。",
+          "industry_perception_tags": [
+            "行业创新领导者",
+            "巡演级品质",
+            "灯光设计师首选",
+            "高端、昂贵",
+            "技术标杆"
+          ],
+          "notable_projects": [
+            "U2， Coldplay， Ed Sheeran 等巨星世界巡回演唱会",
+            "欧洲歌唱大赛",
+            "中国中央电视台春节联欢晚会（部分年份）",
+            "多个奥运会开闭幕式"
+          ],
+          "sources": [
+            "ROBE Lighting 官方网站",
+            "《Lighting&Sound America》等国际行业杂志评测",
+            "PLASA， Prolight+Sound 等展会新品发布资料"
+          ]
+        },
+        {
+          "company_name": "Guangzhou Yajiang Photoelectric Equipment Co., Ltd.",
+          "brand_name": "Fine Art",
+          "product_line_expertise": "专注于专业舞台灯光和建筑亮化产品的研发与制造，在摇头灯领域产品线丰富，其混合型灯具以出色的性价比和稳定的性能在市场中占据重要份额。",
+          "headquarters": "中国广州",
+          "founding_year": "未知（活跃于2010年代至今）",
+          "core_tech_focus": "实用的多功能集成、稳定的驱动与控制、良好的散热设计、满足主流市场需求的高性能配置。",
+          "main_product_series": "FA三合一摇头灯系列",
+          "representative_models": [
+            "FA-1000 BSW HYBRID",
+            "FA-1400 BSW HYBRID"
+          ],
+          "key_parameters": {
+            "光源": "高亮度LED光源（如Osram或国产知名品牌）",
+            "光束角范围": "标准可变光束角（如3°-50°）",
+            "亮度输出": "符合主流市场需求的亮度水平",
+            "图案系统": "内置图案盘，含多个常用图案及可定制图案片。",
+            "颜色系统": "CMY混色加固定色轮，支持CTO校正。",
+            "运动系统": "可靠的步进电机，满足常规演出需求的速度与精度。"
+          },
+          "special_features": [
+            "高性价比的三合一功能：以相对亲民的价格提供光束、图案、染色核心功能。",
+            "模块化设计：便于维护和部件更换。",
+            "友好的用户界面：控制菜单直观，易于编程和操作。",
+            "良好的散热风道设计：保障长时间稳定运行。",
+            "支持RDM远程设备管理：便于大型系统的监控和维护。"
+          ],
+          "typical_applications": [
+            "中小型演唱会、Livehouse",
+            "剧院、多功能厅",
+            "婚庆典礼、企业年会",
+            "夜店、酒吧",
+            "学校、培训机构演播室"
+          ],
+          "channel_characteristics": "广泛依赖国内外的B2B贸易平台（如阿里巴巴）、区域经销商和OEM/ODM合作，价格竞争力强，在中小型项目市场和租赁市场渗透率高。",
+          "industry_perception_tags": [
+            "高性价比品牌",
+            "入门到中级市场主力",
+            "产品稳定实用",
+            "渠道广泛",
+            "配置灵活（支持定制）"
+          ],
+          "notable_projects": [
+            "众多地方电视台及剧场灯光改造项目",
+            "国内各类音乐节及商业演出",
+            "海外（如东南亚、中东、东欧）大量娱乐场所和剧院项目"
+          ],
+          "sources": [
+            "Fine Art 官方网站及阿里巴巴国际站店铺",
+            "行业B2B平台产品参数页",
+            "灯光租赁商设备清单"
+          ]
+        }
+      ]
+    },
+    "LED Wash and Zoom Wash Moving Heads": {
+      "dimension_info": {
+        "name": "LED Wash and Zoom Wash Moving Heads",
+        "description": "LED染色及变焦染色摇头灯，用于大面积、均匀的色彩渲染和照明，变焦功能可调节覆盖范围。",
+        "tech_features": "LED光源、高显色指数、平滑混色、大范围变焦、均匀的光斑、高光通量输出、低功耗。",
+        "search_keywords": [
+          "LED染色摇头灯",
+          "变焦染色灯",
+          "Wash Moving Head",
+          "Zoom Wash",
+          "LED混色灯"
+        ]
+      },
+      "competitors": [
+        {
+          "company_name": "广州市浩洋电子股份有限公司",
+          "brand_name": "GOLDENSEA",
+          "product_line_expertise": "专业舞台灯光、建筑照明及文旅演艺灯光设备的研发、生产与销售，产品线覆盖全面，尤其在大型文旅项目和专业剧场领域有深厚积累。",
+          "headquarters": "中国广州",
+          "founding_year": "2005",
+          "core_tech_focus": "高光效、高稳定性光学系统设计；智能散热与电源管理；基于DMX/RDM/Art-Net的智能控制系统集成；致力于高光通量输出与色彩还原的平衡。",
+          "main_product_series": "GOLDENSEA GS-WASH系列、GS-SPOT系列等",
+          "representative_models": [
+            "GS-340 WASH ZOOM",
+            "GS-1000 WASH ZOOM"
+          ],
+          "key_parameters": {
+            "光源类型": "高功率LED",
+            "显色指数": "CRI > 90，部分型号宣称>95",
+            "变焦范围": "典型值 8° - 50°（具体型号不同）",
+            "光通量": "从数千到数万流明不等，例如GS-1000系列可达数万流明",
+            "控制协议": "DMX512, RDM, Art-Net, sACN",
+            "调光/频闪": "0-100%线性调光，电子频闪"
+          },
+          "special_features": [
+            "“True Color”混色技术，宣称色彩过渡平滑、饱和度高",
+            "大范围线性变焦，光斑均匀，边缘柔和",
+            "高效的散热系统设计，保证长时间高负荷运行稳定性",
+            "模块化设计，便于维护和升级",
+            "部分高端型号支持无线DMX控制"
+          ],
+          "typical_applications": [
+            "大型剧院、音乐厅",
+            "电视台演播室",
+            "演唱会及大型巡演",
+            "文旅夜游及实景演出",
+            "高端酒店、宴会厅"
+          ],
+          "channel_characteristics": "采用“直销+经销”结合模式，在国内及国际主要市场设有分公司或办事处，与大型系统集成商、租赁公司和工程商深度合作，渠道网络广泛。",
+          "industry_perception_tags": [
+            "国产高端品牌代表",
+            "稳定性强",
+            "工程项目的可靠选择",
+            "光学性能出色",
+            "性价比高"
+          ],
+          "notable_projects": [
+            "北京冬奥会开闭幕式",
+            "广州亚运会开闭幕式",
+            "多项国家级剧院及电视台项目"
+          ],
+          "sources": [
+            "浩洋股份官方网站产品介绍",
+            "行业媒体（如《演艺科技》）对浩洋电子的报道及产品评测",
+            "大型项目案例新闻稿"
+          ]
+        },
+        {
+          "company_name": "广州彩熠灯光股份有限公司",
+          "brand_name": "FINEART",
+          "product_line_expertise": "专注于专业舞台灯光设备的研发与制造，以染色灯和图案摇头灯闻名，产品在色彩表现和可靠性方面受到市场认可。",
+          "headquarters": "中国广州",
+          "founding_year": "2002",
+          "core_tech_focus": "LED混色与色彩管理技术；高效的光学透镜设计；产品的小型化与轻量化；强调产品的艺术表现力与操控便捷性。",
+          "main_product_series": "FINEART F系列、FL系列（如FL-320/FL-1000等染色系列）",
+          "representative_models": [
+            "FL-1000 WASH ZOOM",
+            "F-1000 WASH ZOOM"
+          ],
+          "key_parameters": {
+            "光源类型": "高亮度RGBW或RGBAL LED",
+            "显色指数": "CRI ≥ 90",
+            "变焦范围": "常见为7° - 55° 或类似宽范围",
+            "光通量": "高功率型号（如1000W LED等效）光通量输出强劲",
+            "控制通道": "丰富的控制通道，支持精细的色彩、动态效果调节",
+            "调光曲线": "多种调光曲线可选，满足不同场景需求"
+          },
+          "special_features": [
+            "“炫彩”混色系统，色彩纯净，混色均匀",
+            "超宽角度变焦，覆盖范围大",
+            "独特的光斑整形功能，可产生柔和的“爱心”、“星形”等效果",
+            "内置宏效果和颜色预置，编程快捷",
+            "结构紧凑，重量相对较轻，便于安装和运输"
+          ],
+          "typical_applications": [
+            "专业演出与演唱会",
+            "剧院及多功能厅",
+            "电视节目制作",
+            "娱乐场所（Livehouse, 酒吧）",
+            "中型租赁市场"
+          ],
+          "channel_characteristics": "以经销商网络为主，覆盖全球市场，在国内各省及海外重点区域设有核心代理商。同时为大型项目和OEM/ODM客户提供直接支持。",
+          "industry_perception_tags": [
+            "色彩表现优异",
+            "产品线丰富",
+            "租赁市场常见品牌",
+            "创新功能多",
+            "用户友好"
+          ],
+          "notable_projects": [
+            "中央电视台春节联欢晚会",
+            "国家大剧院部分剧目",
+            "众多省级电视台及大型商业演出"
+          ],
+          "sources": [
+            "彩熠灯光官方网站及产品手册",
+            "行业展会（如PALM展、GETSHOW）上的产品发布信息",
+            "灯光师社区及论坛的用户反馈与讨论"
+          ]
+        },
+        {
+          "company_name": "ROBE Lighting s.r.o.",
+          "brand_name": "ROBE",
+          "product_line_expertise": "全球领先的专业舞台灯光制造商，以创新的设计、卓越的光学性能和极高的可靠性著称，产品广泛应用于顶级演出和固定安装项目。",
+          "headquarters": "捷克",
+          "founding_year": "1991",
+          "core_tech_focus": "尖端光学与机械工程；独特的色彩系统与光效引擎；网络化与智能化控制集成；极致的耐用性与散热设计。",
+          "main_product_series": "MegaPointe系列、Spikie系列、以及Wash类产品如BMFL WashBeam系列（含LED型号）和LEDWash系列。",
+          "representative_models": [
+            "LEDWash 1200",
+            "BMFL WashBeam (LED光源版本)"
+          ],
+          "key_parameters": {
+            "光源类型": "定制化高功率LED阵列",
+            "显色指数": "通常CRI > 90，部分模式可达CRI 96+",
+            "变焦范围": "极大变焦比，如LEDWash 1200可达4° - 64°",
+            "光通量": "输出极高，LEDWash 1200宣称超过50，000流明",
+            "色彩系统": "多基色LED混色（如RGBW+琥珀+青柠等），色域宽广",
+            "控制系统": "高级RDM功能，PoE供电可选，集成传感器"
+          },
+          "special_features": [
+            "“BeamWash”或“Framing”系统（在部分型号），可对光斑进行几何形状切割",
+            "超平滑的CMY+CTO混色，色彩还原极其准确",
+            "革命性的散热和静音设计，适合对噪音敏感的环境（如剧院、电视录制）",
+            "“自检”和“健康状态报告”功能，便于维护",
+            "坚固的航空铝材外壳和IP评级（部分型号），适应恶劣环境"
+          ],
+          "typical_applications": [
+            "世界级巨星巡回演唱会",
+            "大型音乐节主舞台",
+            "顶级剧院和歌剧院",
+            "高端电视演播室（如《美国好声音》）",
+            "标志性建筑照明和文旅项目"
+          ],
+          "channel_characteristics": "全球性的专业分销和服务中心网络。产品主要通过授权经销商销售，并为大型租赁公司和重大固定安装项目提供直接的技术与销售支持。价格定位高端。",
+          "industry_perception_tags": [
+            "行业技术标杆",
+            "顶级品质与可靠性",
+            "创新领导者",
+            "高端租赁市场标配",
+            "“灯光界的劳斯莱斯”"
+          ],
+          "notable_projects": [
+            "U2， Coldplay等世界巨星巡演",
+            "欧洲电视网歌唱大赛",
+            "中国部分省级卫视旗舰节目",
+            "全球多地国家级剧院和演艺中心"
+          ],
+          "sources": [
+            "ROBE Lighting官方网站及详细技术白皮书",
+            "国际专业灯光杂志（如Lighting&Sound International, Protocol）的评测与报道",
+            "大型演唱会技术揭秘文章及设备清单"
+          ]
+        }
+      ]
+    },
+    "Follow Spot Lights": {
+      "dimension_info": {
+        "name": "Follow Spot Lights",
+        "description": "追光灯，用于在舞台上跟踪和突出表演者，通常要求光斑均匀、可控且操作灵活。",
+        "tech_features": "长投射距离、高亮度、平滑变焦、机械或手动控制光圈、色温可调、操作员控制台或远程控制。",
+        "search_keywords": [
+          "追光灯",
+          "Follow Spot",
+          "追踪灯",
+          "舞台追光",
+          "长焦追光灯"
+        ]
+      },
+      "competitors": [
+        {
+          "company_name": "广州市浩洋电子股份有限公司",
+          "brand_name": "GOLDENSEA",
+          "product_line_expertise": "专业舞台灯光、建筑照明及文旅演艺灯光设备制造商，追光灯是其核心产品线之一，以高亮度、长寿命和稳定性著称。",
+          "headquarters": "中国广东省广州市",
+          "founding_year": "2005",
+          "core_tech_focus": "高亮度气体放电光源（如氙灯、LED）技术、高效光学系统设计、长寿命散热管理、远程控制与调光系统。",
+          "main_product_series": "GOLDENSEA 追光灯系列",
+          "representative_models": [
+            "GS-2000H",
+            "GS-700H"
+          ],
+          "key_parameters": {
+            "光源类型": "高亮度氙灯或高功率LED",
+            "投射距离": "可达200米以上（如GS-2000H）",
+            "亮度": "高，具体流明值依型号而定（如采用2000W氙灯）",
+            "变焦": "电动平滑变焦",
+            "光圈控制": "机械/电动光圈",
+            "色温调节": "可调（通过色温滤色片或LED混色技术）",
+            "控制方式": "操作台有线控制、DMX512、无线遥控"
+          },
+          "special_features": [
+            "采用高效非球面光学透镜组，光斑均匀",
+            "长寿命光源与优秀的散热设计，适合长时间连续工作",
+            "部分型号支持远程网络监控与故障诊断",
+            "结构坚固，适合剧场、体育馆等固定安装和巡演"
+          ],
+          "typical_applications": [
+            "大型剧院、音乐厅",
+            "体育场馆赛事照明",
+            "电视台演播室",
+            "大型演唱会及巡演",
+            "文旅实景演出"
+          ],
+          "channel_characteristics": "主要通过专业灯光工程商、系统集成商和经销商网络进行销售，在国内外设有办事处和代理商，参与国内外大型行业展会。",
+          "industry_perception_tags": [
+            "国产高端品牌",
+            "高性价比",
+            "稳定性好",
+            "工程常用品牌"
+          ],
+          "notable_projects": [
+            "国家大剧院部分剧目",
+            "多个省级电视台演播室",
+            "国内大型体育赛事开幕式"
+          ],
+          "sources": [
+            "浩洋股份官方网站产品介绍",
+            "专业灯光行业媒体（如“演艺科技”）评测报告",
+            "灯光工程商产品选型手册"
+          ]
+        },
+        {
+          "company_name": "Robert Juliat",
+          "brand_name": "Robert Juliat",
+          "product_line_expertise": "法国顶级专业追光灯制造商，以精湛的光学设计、卓越的机械性能和艺术级的光质闻名，是高端剧院和歌剧院的标杆品牌。",
+          "headquarters": "法国",
+          "founding_year": "1919",
+          "core_tech_focus": "顶级光学玻璃透镜系统、精准的机械结构、高效的光源技术（氙灯、LED）、符合人体工学的操作设计。",
+          "main_product_series": "Alicyclor, Oz, Lancelot, Aramis 等系列",
+          "representative_models": [
+            "Alicyclor 2800 (LED)",
+            "Oz 2000/2500 (Xenon)"
+          ],
+          "key_parameters": {
+            "光源类型": "高功率LED或短弧氙灯",
+            "投射距离": "极远，例如Alicyclor 2800 LED在100米处仍保持高照度",
+            "亮度": "极高，光效卓越",
+            "变焦": "超平滑变焦，变焦过程中光斑形状和照度保持稳定",
+            "光圈控制": "精密机械光圈，可产生极硬或柔和的光边",
+            "色温调节": "连续可调（LED型号）或通过滤色片（氙灯型号）",
+            "控制方式": "手动操作台（注重手感）、可选DMX/RDM远程控制"
+          },
+          "special_features": [
+            "传奇的“Robert Juliat光学系统”，提供无与伦比的清晰度、均匀度和色彩还原",
+            "坚固的航空铝材机身和精密的机械结构，经久耐用",
+            "操作手感极佳，变焦、对焦、光圈调节顺滑精准",
+            "LED型号在保持顶级光质的同时，大幅降低能耗和热量"
+          ],
+          "typical_applications": [
+            "世界顶级歌剧院、话剧院（如巴黎歌剧院、大都会歌剧院）",
+            "国家级剧院和表演艺术中心",
+            "高端电视演播室",
+            "要求苛刻的巡回歌剧和芭蕾舞演出"
+          ],
+          "channel_characteristics": "通过全球精选的高端专业经销商网络销售，直接与顶尖灯光设计师、剧院技术总监合作，提供高度定制化服务。",
+          "industry_perception_tags": [
+            "行业标杆",
+            "光学艺术品",
+            "剧院首选",
+            "顶级光质",
+            "奢侈品级"
+          ],
+          "notable_projects": [
+            "巴黎歌剧院",
+            "英国皇家歌剧院",
+            "纽约大都会歌剧院",
+            "中国国家大剧院（部分歌剧制作）"
+          ],
+          "sources": [
+            "Robert Juliat 官方网站",
+            "国际专业灯光杂志（如Lighting&Sound International, TPi）评测与报道",
+            "高端剧院技术设备清单"
+          ]
+        },
+        {
+          "company_name": "Clay Paky",
+          "brand_name": "Clay Paky",
+          "product_line_expertise": "意大利著名舞台灯光品牌（现隶属于Signify集团），以创新的娱乐灯光产品闻名，其追光灯产品结合了传统追光功能与自动化灯的灵活性。",
+          "headquarters": "意大利",
+          "founding_year": "1976",
+          "core_tech_focus": "将自动化灯光技术（CMY混色、图案、效果）与传统追光功能融合，高亮度光源技术，紧凑型设计。",
+          "main_product_series": "Mythos, Scenius 系列",
+          "representative_models": [
+            "Mythos 2",
+            "Scenius Profile"
+          ],
+          "key_parameters": {
+            "光源类型": "高功率LED（如Mythos 2采用800W LED引擎）",
+            "投射距离": "远距离，适合大型场地",
+            "亮度": "高亮度，Mythos 2宣称媲美传统2000W氙灯追光",
+            "变焦": "电动变焦，范围广",
+            "光圈控制": "电动光圈，并可塑造各种形状",
+            "色温调节": "全CMY+CTO色温连续可调",
+            "控制方式": "全DMX/RDM控制，可完全远程操作，也可配备手动控制杆"
+          },
+          "special_features": [
+            "“自动化追光灯”概念，既可作为传统追光灯由操作员控制，也可作为静音、全自动的图案切割灯编程使用",
+            "内置CMY混色、色轮、固定图案轮和旋转图案轮，功能远超传统追光",
+            "LED光源，瞬间开关，无需预热，寿命长，发热低",
+            "紧凑轻量化设计，便于吊装和运输"
+          ],
+          "typical_applications": [
+            "大型演唱会、音乐节",
+            "电视综艺节目和颁奖典礼",
+            "剧院（需要灵活特效时）",
+            "巡演（替代多类灯具，简化系统）"
+          ],
+          "channel_characteristics": "通过全球广泛的娱乐灯光经销商和租赁公司网络销售，在演唱会租赁市场占有率高，品牌营销针对灯光设计师和编程师。",
+          "industry_perception_tags": [
+            "创新者",
+            "自动化追光",
+            "演唱会利器",
+            "多功能融合",
+            "技术前沿"
+          ],
+          "notable_projects": [
+            "众多国际巨星世界巡回演唱会（如Beyoncé, U2等）",
+            "欧洲歌唱大赛等大型电视制作",
+            "Coachella等国际音乐节"
+          ],
+          "sources": [
+            "Clay Paky 官方网站及产品手册",
+            "娱乐技术媒体（如PLSN, TPi）的评测与案例研究",
+            "大型演唱会设备租赁公司库存清单"
+          ]
+        }
+      ]
+    },
+    "PAR Lights and Studio Lighting Fixtures": {
+      "dimension_info": {
+        "name": "PAR Lights and Studio Lighting Fixtures",
+        "description": "PAR灯及演播室照明灯具，包括PAR灯、平板灯等，用于基础照明、背景光或演播室固定布光。",
+        "tech_features": "PAR灯阵（多种尺寸如PAR64, PAR56）、LED光源、高显色指数、可调色温、调光平滑、轻便耐用、易于安装。",
+        "search_keywords": [
+          "PAR灯",
+          "演播室灯",
+          "Studio Lighting",
+          "LED PAR灯",
+          "基础照明灯具"
+        ]
+      },
+      "competitors": [
+        {
+          "company_name": "广州市浩洋电子股份有限公司",
+          "brand_name": "GOLDENSEA",
+          "product_line_expertise": "专业舞台灯光、演播室灯光及建筑景观照明设备的研发、生产与销售，产品线覆盖全面。",
+          "headquarters": "中国广东省广州市",
+          "founding_year": "2005",
+          "core_tech_focus": "高光效、高显色指数LED光源应用，智能控制系统集成，光学与散热结构设计。",
+          "main_product_series": "LED影视平板灯系列、LED聚光灯系列、LED帕灯（PAR灯）系列。",
+          "representative_models": [
+            "GS-PAR64Z LED",
+            "GS-PAR100Z LED"
+          ],
+          "key_parameters": {
+            "光源类型": "高显色COB LED",
+            "显色指数": "CRI ≥ 95 (典型值)",
+            "色温范围": "2700K - 6500K 连续可调",
+            "调光": "0-100% 平滑无频闪调光",
+            "控制": "DMX512， 主从模式， 手动控制",
+            "功率": "根据型号不同， 覆盖100W至数百瓦"
+          },
+          "special_features": [
+            "采用高显色COB光源，色彩还原真实",
+            "色温连续可调，适应不同拍摄和演出需求",
+            "优化的光学透镜，光斑均匀柔和",
+            "轻量化与坚固的压铸铝结构，散热性能好",
+            "支持多种安装方式，便于快速搭建"
+          ],
+          "typical_applications": [
+            "电视台演播室",
+            "影视剧拍摄现场",
+            "剧场及舞台基础照明",
+            "会议室、礼堂照明",
+            "商业摄影棚"
+          ],
+          "channel_characteristics": "以专业灯光工程商、系统集成商、租赁商为主要渠道，同时通过经销商网络覆盖全球市场，提供项目定制化服务。",
+          "industry_perception_tags": [
+            "国产专业灯光领先品牌",
+            "高性价比",
+            "产品线齐全",
+            "工程稳定性好"
+          ],
+          "notable_projects": [
+            "多个省级电视台演播室灯光系统改造",
+            "国内大型剧院舞台基础照明项目"
+          ],
+          "sources": [
+            "广州市浩洋电子股份有限公司官方网站产品中心",
+            "专业灯光行业媒体（如“演艺科技”）对浩洋股份及GOLDENSEA品牌的报道"
+          ]
+        },
+        {
+          "company_name": "佛山电器照明股份有限公司",
+          "brand_name": "FSL",
+          "product_line_expertise": "综合性照明解决方案提供商，在商业照明、工业照明领域基础雄厚，近年大力发展影视舞台专业LED照明产品线。",
+          "headquarters": "中国广东省佛山市",
+          "founding_year": "1958",
+          "core_tech_focus": "通用照明LED技术向专业领域延伸，注重光品质、可靠性与成本控制。",
+          "main_product_series": "FSL影视照明系列（包括LED聚光灯、平板灯、PAR灯等）。",
+          "representative_models": [
+            "FSL-PAR64-200W",
+            "FSL-PAR100-300W"
+          ],
+          "key_parameters": {
+            "光源类型": "高光效LED模组",
+            "显色指数": "CRI ≥ 90， 部分型号≥95",
+            "色温": "通常为固定值（如3200K， 5600K）或双色温可选，部分高端型号可调",
+            "调光": "0-100% 平滑调光",
+            "控制": "DMX， 手动旋钮",
+            "功率": "覆盖100W， 200W， 300W等主流规格"
+          },
+          "special_features": [
+            "依托FSL强大的品牌和制造规模，性价比突出",
+            "产品坚固耐用，适用于租赁和高强度使用环境",
+            "散热结构设计成熟，保证长时间稳定工作",
+            "安装接口标准，与主流配件兼容性好"
+          ],
+          "typical_applications": [
+            "中小型演播室",
+            "学校、企业礼堂",
+            "婚礼庆典、活动搭建",
+            "剧院及舞台基础光、染色光",
+            "摄影工作室"
+          ],
+          "channel_characteristics": "线上线下结合。线上通过电商平台（如天猫、京东FSL旗舰店）直接销售；线下依靠庞大的原有商业照明经销商网络进行渗透，同时也发展专业灯光工程渠道。",
+          "industry_perception_tags": [
+            "传统照明巨头跨界",
+            "性价比高",
+            "渠道广泛",
+            "产品稳定可靠"
+          ],
+          "notable_projects": [],
+          "sources": [
+            "佛山电器照明股份有限公司官方网站及电商平台旗舰店产品页面",
+            "照明行业媒体对FSL拓展专业照明领域的报道"
+          ]
+        },
+        {
+          "company_name": "爱玲珑公司",
+          "brand_name": "Elinchrom",
+          "product_line_expertise": "专注于摄影棚灯光设备，以高品质、精准控光、快速回电和可靠的色彩一致性闻名于专业摄影领域。",
+          "headquarters": "瑞士",
+          "founding_year": "1948",
+          "core_tech_focus": "专业摄影闪光灯及持续光源技术，色彩科学，轻便高效的电源管理系统。",
+          "main_product_series": "ELB系列便携式电源箱、BRX/RX系列闪光灯头、E-Lite/LCX系列LED持续光源。",
+          "representative_models": [
+            "Elinchrom ELM 500",
+            "Elinchrom FIVE"
+          ],
+          "key_parameters": {
+            "光源类型": "高显色LED阵列",
+            "显色指数": "CRI ≥ 96， TLCI ≥ 97",
+            "色温": "精准的5500K（日光）或可调色温型号",
+            "调光": "无级平滑调光，范围宽广",
+            "控制": "Elinchrom自家无线系统（Skyport）， 部分支持DMX",
+            "输出/功率": "以摄影领域的“瓦秒”（Ws）或勒克斯（Lux）计量，光效高"
+          },
+          "special_features": [
+            "极佳的色彩还原和一致性，满足苛刻的商业摄影需求",
+            "与自家闪光灯系统色彩高度匹配，便于混合光拍摄",
+            "坚固的金属结构，专业耐用",
+            "优秀的散热设计，支持长时间高功率输出",
+            "集成高品质控光附件（如柔光箱、雷达罩）的接口系统"
+          ],
+          "typical_applications": [
+            "高端商业摄影棚（人像、静物、广告）",
+            "影视剧拍摄中的特写镜头补光",
+            "时尚摄影",
+            "产品摄影"
+          ],
+          "channel_characteristics": "以专业摄影器材经销商为核心渠道，在全球主要市场设有分公司或总代理。通过专业展会（如Photokina）、摄影师工作坊和在线内容营销进行推广。",
+          "industry_perception_tags": [
+            "专业摄影灯光标杆",
+            "瑞士精密工艺",
+            "色彩科学权威",
+            "高品质高价位"
+          ],
+          "notable_projects": [
+            "被众多国际知名摄影师和摄影工作室选用作为主力灯光设备"
+          ],
+          "sources": [
+            "Elinchrom全球官方网站产品页面与技术白皮书",
+            "专业摄影媒体（如Fstoppers， PetaPixel）的评测与报道"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -10,6 +10,7 @@ export default function GenericCta({ data }: { data: CatalogItemData['cta'] }) {
       withBackground
       variant="primary"
       innerContainerClassName="container-wide"
+      className="!py-8 !lg:py-10"
     >
       <div className="flex gap-4 justify-center mt-6">
         {data.buttons.map((btn, idx) => (

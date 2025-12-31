@@ -1,6 +1,6 @@
 import { LandingProductFeature } from '@/components/landing/LandingProductFeature';
 import { LandingFeatureList } from '@/components/landing/feature/LandingFeatureList';
-import { MusicIcon, TheaterIcon, VideoIcon, BuildingIcon, ZapIcon, CameraIcon, SettingsIcon } from 'lucide-react';
+import { MusicIcon, TheaterIcon, VideoIcon, BuildingIcon, ZapIcon, CameraIcon, SettingsIcon, Grid as GridIcon, Sun as SunIcon, Shield as ShieldIcon } from 'lucide-react';
 import { CatalogItemData } from '../data/types';
 
 const iconMap = {
@@ -11,6 +11,9 @@ const iconMap = {
   ZapIcon: <ZapIcon className="w-6 h-6" />,
   CameraIcon: <CameraIcon className="w-6 h-6" />,
   SettingsIcon: <SettingsIcon className="w-6 h-6" />,
+  GridIcon: <GridIcon className="w-6 h-6" />,
+  SunIcon: <SunIcon className="w-6 h-6" />,
+  ShieldIcon: <ShieldIcon className="w-6 h-6" />,
 };
 
 export default function GenericIntro({ data }: { data: CatalogItemData['intro'] }) {
@@ -22,7 +25,7 @@ export default function GenericIntro({ data }: { data: CatalogItemData['intro'] 
   return (
     <LandingFeatureList
       title={data.title}
-      description={data.description}
+      description={<span dangerouslySetInnerHTML={{ __html: data.description }} />}
       featureItems={features}
       variant="secondary"
     />
